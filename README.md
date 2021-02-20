@@ -16,13 +16,10 @@
   <span>  &#9824  </span> 
 </h1>
 
-### by TelloVision Studio
+<h3 align='center'> by TelloVision Studio <h3>
 
-<br />
-
-## Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!
-  
- <br />
+<h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
+ 
 
 !["Ground Separator"](GroundSeparator.png)
 
