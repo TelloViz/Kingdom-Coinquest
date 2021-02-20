@@ -8,8 +8,8 @@
 
 
 <h1 align='center'> 
-  <span style="color:Red">&#9825</span> 
-  <span style="color:#000000">Kingdom Coinquest</span> 
+  <span>&#9825</span> 
+  <span style="color:#FFFFFF">Kingdom Coinquest</span> 
   <span>&#9828</span> </h1>
  
 
@@ -33,7 +33,7 @@
 
 ![Header for Kingdom Coinquest](GroundSeparator.png)
 
-<h2 align='center'> The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</h2>
+<h2 align='center' style="color:#FFFFFF"> The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</h2>
  
   ---
 
