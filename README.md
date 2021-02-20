@@ -26,23 +26,23 @@
   <span style="color:#8B00FF">n</span>
   <span style="color:#ffffff"> Studio</span>
   <br />
-  <h3 style="color:#FFFFFF">Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!</h3>
+  <h3 align='center'style="color:#FFFFFF">Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!</h3>
   
   ---
 </body>
 
-![Header for Kingdom Coinquest](GroundSeparator.png)
+!["Ground Separator"](GroundSeparator.png)
 
 <h2 align='center' style="color:#FFFFFF"> The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</h2>
  
-  ---
+  !["Ground Separator"](GroundSeparator.png)
 
 
 <br />
 <br />
-<h2 align='center'> Card Types </h2>
+<h2 align='center' style='color:#FFFFFF'> Card Types </h2>
 
-<p>King:</p>
+<p align='left' style='color:#FFFFFF'><b>King:</b></p>
 <p>Your king is your primary concern. The king starts the game with xxxx health. Your job is to protect your king, while defeating the other king. A king is defeated when he has 0 or less health.
 Non-Player Kings: 
 These kings are not used in game, they are set aside outside of the play area.</p>
