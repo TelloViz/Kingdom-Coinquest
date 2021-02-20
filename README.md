@@ -1,6 +1,6 @@
 <body style="background-color:LightGreen">
 
-[![Social banner for jh3y](gitpic.png)](https://github.com/Tello-/Kingdom-Coinquest)
+[![Kingdom-Coinquest-Banner](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
 <h1 align='center'> &#9825 Kingdom Coinquest &#9828</h1>
 
