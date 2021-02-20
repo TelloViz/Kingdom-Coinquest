@@ -4,19 +4,18 @@
  
 
 
-<body align='center' >
 
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
-<h1> 
+<h1 align='center'> 
   <span> &#9829 </span> 
   <span> <strong> Kingdom Coinquest </strong> </span> 
   <span>  &#9824  </span> 
 </h1>
 
-<h3 > by TelloVision Studio <h3>
+<h3 align='center'> by TelloVision Studio <h3>
 
-<h2 > Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
+<h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
  
 
 !["Ground Separator"](GroundSeparator.png)
@@ -30,9 +29,7 @@
 
 !["Ground Separator"](GroundSeparator.png)
 
-</body>
 
-<body align='left' >
 
 ## King
 
@@ -60,7 +57,6 @@ Numbered Suits:
 Non-Player Numbered Suits: 
 Represent armies of other nations. Collecting 2 cards of the same value from non-player nations counts as one card of your suit. Play this card as if it were your own, preparation by quartermaster still necessary.
 
-</body>
 
 
 Unit Types
