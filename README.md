@@ -1,6 +1,9 @@
 
 
 
+
+
+
 <body style="background-color:#215218"> 
 
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
