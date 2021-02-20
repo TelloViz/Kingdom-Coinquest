@@ -1,27 +1,39 @@
-<body style="background-color:LightGreen">
 
-[![Social banner for jh3y](gitpic.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
-<h1 align='center'> &#9825 Kingdom Coinquest &#9828</h1>
 
+<body style="background-color:#215218"> </body>
+
+[![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
+
+
+
+<h1 align='center'> 
+  <span style="color:Red">&#9825</span> 
+  <span style="color:#000000">Kingdom Coinquest</span> 
+  <span>&#9828</span> </h1>
  
-<body align='center' style="background-color:Gray">
- <span style="color:#FFFFF">by</span>
-  <span style="color:#FFFFF">Tello</span>
+
+<body align='center' >
+
+
+ <span style="color:#ffffff">by</span>
+  <span style="color:#ffffff">Tello</span>
   <span style="color:#FF0000">V</span>
   <span style="color:#FF7F00">i</span>
   <span style="color:#FFFF00">s</span>
   <span style="color:#00FF00">i</span>
   <span style="color:#0000FF">o</span>
-  <span style="color:#2E2B5F">n</span>
-  <span style="color:#2E2B5F"> Studio</span>
-
+  <span style="color:#8B00FF">n</span>
+  <span style="color:#ffffff"> Studio</span>
+  <br />
+  <h3 style="color:#FFFFFF">Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!</h3>
   
+  ---
 </body>
 
+![Header for Kingdom Coinquest](GroundSeparator.png)
 
 <h2 align='center'> The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</h2>
- 
  
   ---
 
@@ -74,4 +86,3 @@ Preparation Costs
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
 </details>
-</body>
