@@ -1,7 +1,7 @@
 
 
 
-<body style="background-color:#215218"> </body>
+<body style="background-color:#215218"> 
 
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
@@ -28,7 +28,7 @@
   <br />
   <h3 align='center'style="color:#FFFFFF">Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!</h3>
   
-  ---
+ 
 </body>
 
 !["Ground Separator"](GroundSeparator.png)
@@ -86,3 +86,5 @@ Preparation Costs
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
 </details>
+
+</body>
