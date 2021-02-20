@@ -1,51 +1,46 @@
 
 
 
-<body style="background-color:#215218"> 
+ 
+
+
+<body align='center' >
 
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
 
 
 <h1 align='center'> 
-  <span>&#9825</span> 
-  <span style="color:#FFFFFF">Kingdom Coinquest</span> 
-  <span>&#9828</span> </h1>
- 
+  <span> <strong> &#9825 </strong> </span> 
+  <span> <strong> Kingdom Coinquest </strong> </span> 
+  <span> <strong> &#9828 </strong> </span> 
+</h1>
 
-<body align='center' >
+### by TelloVision Studio
 
+<br />
 
- <span style="color:#ffffff">by</span>
-  <span style="color:#ffffff">Tello</span>
-  <span style="color:#FF0000">V</span>
-  <span style="color:#FF7F00">i</span>
-  <span style="color:#FFFF00">s</span>
-  <span style="color:#00FF00">i</span>
-  <span style="color:#0000FF">o</span>
-  <span style="color:#8B00FF">n</span>
-  <span style="color:#ffffff"> Studio</span>
-  <br />
-  <h3 style="color:#FFFFFF">Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!</h3>
-  <br />
+## Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest!
   
- 
+ <br />
+
 !["Ground Separator"](GroundSeparator.png)
 
-<h2 style="color:#FFFFFF"> The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</h2>
-</body>
+<br />
+
+### The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!
 
 
  <br />
- 
+
 !["Ground Separator"](GroundSeparator.png)
 
+</body>
 
-<br />
-<br />
-<h2 align='center' style='color:#FFFFFF'> Card Types </h2>
+<body align='left' >
 
-<p align='left' style='color:#FFFFFF'><b>King:</b></p>
+## King
+
 <p>Your king is your primary concern. The king starts the game with xxxx health. Your job is to protect your king, while defeating the other king. A king is defeated when he has 0 or less health.
 Non-Player Kings: 
 These kings are not used in game, they are set aside outside of the play area.</p>
@@ -70,7 +65,7 @@ Numbered Suits:
 Non-Player Numbered Suits: 
 Represent armies of other nations. Collecting 2 cards of the same value from non-player nations counts as one card of your suit. Play this card as if it were your own, preparation by quartermaster still necessary.
 
-
+</body>
 
 
 Unit Types
@@ -82,6 +77,8 @@ Preparation Costs
 2-4 	= 1 turn preparation
 5-7 	= 2 turns preparation
 8-10 	= 3 turns preparation
+
+
 <details>
  <summary><strong>Videos</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
@@ -89,5 +86,3 @@ Preparation Costs
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
 </details>
-
-</body>
