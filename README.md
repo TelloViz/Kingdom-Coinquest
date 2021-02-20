@@ -1,16 +1,12 @@
-
-
-
-<body style="background-color:#215218"> 
-
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
 
 
 <h1 align='center'> 
-  <span>&#9825</span> 
+  <span style="color:#FFFFFF">&#9829</span> 
   <span style="color:#FFFFFF">Kingdom Coinquest</span> 
-  <span>&#9828</span> </h1>
+  <span style="color:#FFFFFF">&#9824</span> 
+</h1>
  
 
 <body align='center' >
@@ -86,5 +82,3 @@ Preparation Costs
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
 </details>
-
-</body>
