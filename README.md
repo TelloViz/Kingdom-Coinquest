@@ -11,9 +11,9 @@
 
 
 <h1 align='center'> 
-  <span> <strong> &#9825 </strong> </span> 
+  <span> &#9825  </span> 
   <span> <strong> Kingdom Coinquest </strong> </span> 
-  <span> <strong> &#9828 </strong> </span> 
+  <span>  &#9828  </span> 
 </h1>
 
 ### by TelloVision Studio
