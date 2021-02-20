@@ -15,14 +15,12 @@
 
 <h3 align='center'> by TelloVision Studio <h3>
 
-<h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
+<h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! </h2>  
  
 
 !["Ground Separator"](GroundSeparator.png)
 
-<br />
-
-### The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!
+### _The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!_
 
 
  <br />
