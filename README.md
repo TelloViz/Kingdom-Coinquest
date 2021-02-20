@@ -8,17 +8,15 @@
 
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
-
-
-<h1 align='center'> 
+<h1> 
   <span> &#9829 </span> 
   <span> <strong> Kingdom Coinquest </strong> </span> 
   <span>  &#9824  </span> 
 </h1>
 
-<h3 align='center'> by TelloVision Studio <h3>
+<h3 > by TelloVision Studio <h3>
 
-<h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
+<h2 > Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! <h2>  
  
 
 !["Ground Separator"](GroundSeparator.png)
