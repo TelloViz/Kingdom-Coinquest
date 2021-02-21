@@ -114,6 +114,7 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 Be careful how you handle this card! An Ace on top of the graveyard is fair game. If the opponent can retrieve his ace, then they may use it against you! Also, 2 rival Aces combined in the Gallows become an Ace at your disposal. <b><i>Note: Using an Ace from the gallows will cost both a draw move and a play move!</b></i>
 </p>
 
+---
 
 ## __Numbered Suits__
 These cards represent weapons, armor, and mana. The Quartermaster prepares these resources for use by your Units. The value of the card influences its effect and preparation cost.
