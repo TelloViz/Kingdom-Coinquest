@@ -49,24 +49,71 @@
 
 
 ## __King__
+ <p>
+  <img width="80" align='left' src="HeartKing.png">
+</p>
+<p align='center'>The leader of your Kingdom. He must be protected at all cost. The King starts with 20 health points. A king is defeated when he has 0 or less health. The final King standing is the victor.
+</p>
 
-Your king is your primary concern. The king starts the game with 20 health. Your job is to protect your king, while defeating the other king. A king is defeated when he has 0 or less health.
-- __Non-Player Kings:__ 
-These kings are not used in game, they are set aside outside of the play area.
+<p align='center'> <b>Non-Player Kings:</b> 
+<br />
+These kings are not used in game, they are set aside outside of the play area. </p>
+<br />
+
+
+---
 
 ## __Queen__
-The queen of your suit, when held, can be played next to your king. She can be used as a bodyguard for your King. Her health is drained in place of his. The queen is active until health has reached 0 or less. If you have a Queen in play, and no Knight, the Queen must then be used to block the king no matter what. All Queens enter the game with 30 health points and a defensive score of 10.
-- __Non-Player Queen:__ 
+<p>
+  <img width="80" align='left' src="HeartQueen.png">
+</p>
+
+<p align='center'> The queen of your suit, when held, can be played next to your king. She can be used as a bodyguard for your King. Her health is drained in place of his. The queen is active until health has reached 0 or less. If you have a Queen in play, and no Knight, the Queen must then be used to block the king no matter what. All Queens enter the game with 30 health points and a defensive score of 10.
+</p>
+
+<p align='center'> <b>Non-Player Queen:</b>
+<br />
 Collecting any 2 Queens, that don’t belong to your army, can be converted into 1 queen of your own. Only 1 Queen can be active per player at a time. The Queen stays in play until she has been defeated. Defeated is when the Queen has 0 or less health.
+</p>
+
+---
 
 ## __Jack__ 
-The _Jack of all trades_ has no particular allegience. Jacks are a wild card that can be used to convert any _Numbered Suit_ card in your gallows to your armies allegience.
+
+<p>
+  <img width="80" align='left' src="Jacks.png">
+</p>
+
+<p align='center'> The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to convert any <i>Numbered Suit</i> card in your gallows to your allegience. Only 1 Jack can be in play per player at any time.
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
 
 ## __Ace__
-The ace of your suit can be used to resurrect the top discard card and place it on your unit of choice for immediate use. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile.
 
-- __Non-Player Ace__
-Be careful how you handle this card, if the opponent can retrieve his ace from the top of the discard then they may use it against you! However, if you can gather 2 rival aces in your gallows, you can use it as if it were 1 ace of your own suit.
+<p>
+  <img width="80" align='left' src="AceHeart.png">
+</p>
+
+<p align='center'>
+The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <b><i>Note: Ressurected cards do not need to be prepared by the quartermaster</i></b>
+</p>
+
+<p align='center'>
+<b>Non-Player Ace:</b>
+<br />
+Be careful how you handle this card! An Ace on top of the graveyard is fair game. If the opponent can retrieve his ace, then they may use it against you! Also, 2 rival Aces combined in the Gallows become an Ace at your disposal. <b><i>Note: Using an Ace from the gallows will cost both a draw move and a play move!</b></i>
+</p>
+
 
 ## __Numbered Suits__
 These cards represent weapons, armor, and mana. The Quartermaster prepares these resources for use by your Units. The value of the card influences its effect and preparation cost.
