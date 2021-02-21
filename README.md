@@ -37,9 +37,21 @@
 !["CardSeparator"](CardSeparator.png)
 
 <h2 align='center'> <u><strong>Your Turn</strong></u> </h2>
+
 <br />
-<br />
-<br />
+
+<h3 align='center'> <b>1) <u>Draw Phase</u> </h3>
+<p align='center'> Draw in any combination from Forge, Graveyard or Salvage until you have 3 cards. </p>
+<h3 align='center'> <b>2) <u>Play Phase</u> </h3>
+<p align='center'> Make 1 play move.</p>
+A play move is any of the following: 
+
+- Placing equipment on the Quartermaster to be prepared
+- Equipping prepared equipment gathered from the Quartermaster to Knight or Peasant.
+- Placing a Queen next to the King.
+- Using an Ace to ressurect a card from the graveyard.
+<h3 align='center'> <b>3) <u>Discard Phase</u> </h3>
+
 <br />
 <br />
 <br />
@@ -129,7 +141,7 @@ These cards represent weapons and armor. The [Quartermaster](#Quartermaster) pre
 
 ### __Recruited Cards__
 
-A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting</b> They can be played as a card of your suit. A Jack can be combined with any 
+A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit.  
 
 
 !["CardSeparator"](CardSeparator.png)
