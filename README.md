@@ -125,6 +125,7 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 
 These cards represent weapons and armor. The [Quartermaster](#Quartermaster) prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
 
+---
 
 ### __Recruited Cards__
 
