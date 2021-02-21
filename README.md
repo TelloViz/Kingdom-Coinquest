@@ -73,6 +73,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 ---
 
 ## __Queen__
+
 <p>
   <img width="80" align='left' src="HeartQueen.png">
 </p>
@@ -80,7 +81,11 @@ These kings are not used in game, they are set aside outside of the play area. <
 <p align='center'> The king's right hand. She has vowed to protect her people and their way of life. The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. The Queen stays in play until defeated. A defeated queen is then discarded to the <b>bottom</b> of the graveyard. <b>Note: Only 1 Queen can be active per player at a time.</b>
 </p>
 
+<br />
+<br />
+
 ---
+
 
 ## __Jack__ 
 
@@ -88,7 +93,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="Jacks.png">
 </p>
 
-<p align='center'> The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to convert any <i>Numbered Suit</i> card in your gallows to your allegience. Only 1 Jack can be in play per player at any time.
+<p align='center'> The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to recruit any <i>Equipement</i> card to your allegience. <b>Note: Only 1 Jack can be in play per player at any time.</b>
 </p>
 
 <br />
