@@ -106,20 +106,21 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 ---
 
 ## __Equipment (Numbered Suits)__
-<p>
-These cards represent weapons and armor. The [Quartermaster](#quartermaster) prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
-</p>
+
+These cards represent weapons and armor. The [Quartermaster](#Quartermaster) prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
+
 
 ## __Recruited Cards__
-<p>
+
 A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting</b> They can be played as a card of your suit. A Jack can be combined with any 
-</p>
+
 
 !["CardSeparator"](CardSeparator.png)
 
 Unit Types
 
 # Quartermaster
+
 The preparer and provider of weapons, armor and mana for your units. Each resource needs to be prepared by the quartermaster in order to use (unless stated otherwise). 
 
 Preparation Costs
