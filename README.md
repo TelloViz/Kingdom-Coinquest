@@ -68,12 +68,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="HeartQueen.png">
 </p>
 
-<p align='center'> The queen of your suit, when held, can be played next to your king. She can be used as a bodyguard for your King. Her health is drained in place of his. The queen is active until health has reached 0 or less. If you have a Queen in play, and no Knight, the Queen must then be used to block the king no matter what. All Queens enter the game with 30 health points and a defensive score of 10.
-</p>
-
-<p align='center'> <b>Non-Player Queen:</b>
-<br />
-Collecting any 2 Queens, that don’t belong to your army, can be converted into 1 queen of your own. Only 1 Queen can be active per player at a time. The Queen stays in play until she has been defeated. Defeated is when the Queen has 0 or less health.
+<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. The Queen stays in play until defeated. A defeated queen is then discarded to the <b>bottom</b> of the graveyard. <b>Note: Only 1 Queen can be active per player at a time.</b>
 </p>
 
 ---
@@ -108,25 +103,23 @@ Collecting any 2 Queens, that don’t belong to your army, can be converted into
 The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <b><i>Note: Ressurected cards do not need to be prepared by the quartermaster</i></b>
 </p>
 
-<p align='center'>
-<b>Non-Player Ace:</b>
-<br />
-Be careful how you handle this card! An Ace on top of the graveyard is fair game. If the opponent can retrieve his ace, then they may use it against you! Also, 2 rival Aces combined in the Gallows become an Ace at your disposal. <b><i>Note: Using an Ace from the gallows will cost both a draw move and a play move!</b></i>
-</p>
-
 ---
 
-## __Numbered Suits__
-These cards represent weapons, armor, and mana. The Quartermaster prepares these resources for use by your Units. The value of the card influences its effect and preparation cost.
+## __Equipment (Numbered Suits)__
+<p>
+These cards represent weapons and armor. The [Quartermaster](#quartermaster) prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
+</p>
 
-- __Non-Player Numbered Suits__
-Represent armies of other nations. Collecting 2 cards of the same value from non-player nations counts as one card of your suit. Play this card as if it were your own, preparation by quartermaster still necessary.
+## __Recruited Cards__
+<p>
+A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting</b> They can be played as a card of your suit. A Jack can be combined with any 
+</p>
 
 !["CardSeparator"](CardSeparator.png)
 
 Unit Types
 
-Quartermaster: 
+# Quartermaster
 The preparer and provider of weapons, armor and mana for your units. Each resource needs to be prepared by the quartermaster in order to use (unless stated otherwise). 
 
 Preparation Costs
