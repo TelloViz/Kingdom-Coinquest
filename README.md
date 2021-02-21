@@ -13,7 +13,7 @@
   <span>  &#9824  </span> 
 </h1>
 
-<h3 align='center'> by TelloVision Studio <h3>
+<h3 align='center'> by TelloVision Studio </h3>
 
 <h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! </h2>  
  
@@ -22,8 +22,17 @@
 
 ### _The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!_
 
+!["CardSeparator"](CardSeparator.png)
 
- <br />
+<h2 align='center'> <strong><u>Requirements</u></strong> </h2>
+
+- 2-4 players __(_*untested beyond 2_)__
+- Deck of 52 standard playing cards
+- Quarter, Nickel, Penny __(optional placement reminders for Quartermaster, Knight and Peasant)__
+- Counters __(Ex: Beans, beads, pencil/paper, _sharp memory_ )__
+
+<br />
+<br />
 
 !["CardSeparator"](CardSeparator.png)
 
