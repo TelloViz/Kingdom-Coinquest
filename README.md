@@ -44,12 +44,18 @@
 <p align='center'> Draw in any combination from Forge, Graveyard or Salvage until you have 3 cards. </p>
 <h3 align='center'> <b>2) <u>Play Phase</u> </h3>
 <p align='center'> Make 1 play move.</p>
-A play move is any of the following: 
 
+---
+
+A play move is any of the following: 
 - Placing equipment on the Quartermaster to be prepared
 - Equipping prepared equipment gathered from the Quartermaster to Knight or Peasant.
 - Placing a Queen next to the King.
 - Using an Ace to ressurect a card from the graveyard.
+- 
+
+---
+
 <h3 align='center'> <b>3) <u>Discard Phase</u> </h3>
 
 <br />
