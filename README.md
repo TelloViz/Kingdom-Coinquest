@@ -90,7 +90,7 @@
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
 
 <h3 align='center' id="GoalHeader"><strong><u>The Goal</u>:</strong></h3>
-<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, <a href="#QueenHeader">Queen</a> Cards, <a href="#JackHeader">Jack</a> Cards or <a href="#AceHeader">Ace</a> Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as <a href="#RecruitedCardHeader">Recruiting</a>. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal <a href="#SalvageYardSlotHeaderr">Salvage Yard</a> slots, only you can access these cards in the future. However, space is limited in the <a href="#SalvageYardSlotHeaderr">Salvage Yard</a>. Only 3 cards total can be stored here.</p>
+<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, <a href="#QueenHeader">Queen</a> Cards, <a href="#JackHeader">Jack</a> Cards or <a href="#AceHeader">Ace</a> Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as <a href="#RecruitedCardHeader">Recruiting</a>. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the <a href="#GraveyardSlotHeader">Graveyard</a>, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal <a href="#SalvageYardSlotHeaderr">Salvage Yard</a> slots, only you can access these cards in the future. However, space is limited in the <a href="#SalvageYardSlotHeaderr">Salvage Yard</a>. Only 3 cards total can be stored here.</p>
 
 ---
 
@@ -122,7 +122,7 @@
      <li>Set the remaining Kings aside for the remainder of the game. </li></ul></li>
   <li>Shuffle the remaining cards that are the non-kings/non-joker.
      <ul><li>This is the <a href="#ForgeSlotHeader"><b>forge</b></a>. It is essentially the deck that players will draw from.</li>
-     <li>Place the forge in the location indicated in the figure above.</li></ul>
+     <li>Place the <a href="#ForgeSlotHeader">Forge</a> in the location indicated in the figure above.</li></ul>
   <li>Each player place 20 counters on their <a href="#KingHeader">King</a>.</li>
      <ul><li>This is to keep track of his Health Points remaining.</li></ul>
 
@@ -186,7 +186,7 @@
 <li> The Peasant attacks for damage points equal to the number value on the <a href="#EquipmentCardHeader">Equipment</a> Card.</li>
 <li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending <a href="#KingHeader">King</a>.</li>
 <li> An attacking Peasant may only use an <a href="#EquipmentCardHeader">Equipment</a> Card once. 
-    <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the Graveyard face-up</li> </ul>
+    <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the <a href="#GraveyardSlotHeader">Graveyard</a> face-up</li> </ul>
 </li></ul>
 
 <h3 id="DefendHeader" align='left'><u>Defend</u></h3>
@@ -204,12 +204,12 @@
 <h1 align='center' id="PlayFieldHeader"> <strong>-<u>Play Field</u>-</strong></h1>
 
 <h2 id="ForgeSlotHeader"><u>Forge</u> : </h2>
-<p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
+<p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the <a href="#DrawPhaseHeader">Draw Phase</a> of your turn.</p>
 
 ---
 
 <h2 id="GraveyardSlotHeader"><u>Graveyard</u> : </h2>
-<p> <li align='left'>The Graveyard is a community shared discard pile.  The Graveyard <br /> serves a dual purpose. It is also 1 of 3 places you can choose to draw from <br /> during the Draw Phase of your turn. The Graveyard is always stacked face up and <br /> only the top card is accessible at any time.
+<p> <li align='left'>The Graveyard is a community shared discard pile.  The Graveyard <br /> serves a dual purpose. It is also 1 of 3 places you can choose to draw from <br /> during the <a href="#DrawPhaseHeader">Draw Phase</a> of your turn. The Graveyard is always stacked face up and <br /> only the top card is accessible at any time.
 
 ---
 
@@ -218,7 +218,7 @@
 ---
 
 <h2 id="SalvageYardSlotHeader"><u>Salvage Yard</u> : </h2>
-<p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are <br /> aditional discard slots which can hold 1 card each. These cards can be retrieved <br /> just like drawing from the Forge or the Graveyard. However, your Salvage Cards <br /> are only accessible to you. 
+<p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are <br /> aditional discard slots which can hold 1 card each. These cards can be retrieved <br /> just like drawing from the <a href="#ForgeSlotHeader">Forge</a> or the Graveyard. However, your Salvage Cards <br /> are only accessible to you. 
 
 ---
 
