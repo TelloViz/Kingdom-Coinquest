@@ -114,7 +114,7 @@
 
  <h3 id="PlayMoveHeader">A <b><i>Play Move</i></b> is any of the following: </h3>
  <ul>
-<li> Placing an Equipment Card on the <a href="#QuartermasterHeader">quartermaster</a> to be prepared. </li>
+<li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
 <li> Moving Prepared Equipment from the to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
 <li> Placing a your suit's Queen next to the King.</li>
 <li> Placing a <a href="#RecruitedCardHeader">Recruited</a> Queen next to the King.</li>
