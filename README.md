@@ -280,7 +280,7 @@ __Tip__: Removing 1 counter from your Quartermaster should be the first thing yo
 
 </p>
 
-
+---
 
 !["CardSeparator"](CardSeparator.png)
 
