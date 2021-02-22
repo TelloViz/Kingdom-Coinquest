@@ -349,11 +349,11 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 ---
 
 
-<h1 align='center' id="UnitTypeHeader"> <strong>-<u>Unit Types</strong>-</u> </h1>
+<h1 align='center' id="UnitTypesHeader"> <strong>-<u>Unit Types</strong>-</u> </h1>
 
 <h2 align='center' id="QuartermasterHeader"> <strong><u>Quartermaster</strong></u> </h2>
 
-<p align='center'>The preparer and provider of weapons and armor for your Knights and Peasants. <br /> Each resource needs to be prepared by the Quartermaster in order to be used. <br /> An <a href="#EquipmentCardHeader"> Equipment Card </a> of your kingdom's Suit of Arms can be played on your Quartermaster. <br /> Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns.
+<p align='center'>The preparer and provider of weapons and armor for your Knights and Peasants. <br /> Each resource needs to be prepared by the Quartermaster in order to be used. <br /> An <a href="#EquipmentCardHeader"> Equipment Card </a> of your kingdom's Suit of Arms can be played on your Quartermaster. <br /> Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns. The only way to remove an Equipment Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.
 
 
 ---
