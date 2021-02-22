@@ -22,8 +22,6 @@
 
 !["CardSeparator"](CardSeparator.png)
 
-<br />
-
 ---
 
 <h2><u>Table of Contents</u></h1>
@@ -40,6 +38,10 @@
 <li><a href="#CardTypesHeader"><u>Card Types</u></a></li>
 <li><a href="#UnitTypesHeader"><u>Unit Types</u></a></li>
 </ul>
+
+---
+
+!["CardSeparator"](CardSeparator.png)
 
 ---
 
@@ -79,7 +81,7 @@
 
 ---
 
-### __Note__: At this point, each player should have 1 King in front of them and there is only one deck of cards face down, in the location labelled "forge" on the set-up figure.
+### __Note__: At this point, each player should have 1 King in front of them and there is only one deck of cards face down, in the location labeled "forge" on the set-up figure.
 
 ---
 
@@ -100,7 +102,7 @@
 <br />
 
 1. Draw Phase
-     * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__.
+     * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__ in your hand.
 
 2) Play Phase 
      * Make 1 ___play move___.
@@ -120,20 +122,33 @@
 
 ---
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<h1 align='center' id="PlayFieldHeader"> <strong><u>Play Field</u></strong></h1>
+<h2><u>Forge</u> : </h2>
+<p> <li align='left'>The Forge is your primary source for stocking your hand each turn. <br /> The Forge deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
+
+<h2><u>Graveyard</u> : </h2>
+<p> <li align='left'>The Graveyard is another 1 of the 3 sources you can draw from during your turn. <br /> The Graveyard is a community shared discard pile. The discard serves a dual purpose. <br /> It is also 1 of 2 places you can choose to discard to in the final phase of your turn. <br /> The Graveyard is always stacked face up and only the top card is accessible at any time. 
+
+---
+
+(<b>Be careful! Anything you discard to this stack, is then retrievable during the draw phase of a rival kingdom's turn.</b>)</p>
+
+---
+
+<h2><u>Salvage Yard</u> : </h2>
+<p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are aditional discard slots which can hold 1 card each. These cards can be retrieved just like drawing from the Forge or the Graveyard. However, these cards are only accessible to yourself. 
+
+---
+
+(<b>Note: Only 1 card per Salvage spot. 3 total salvage cards per player at any time. </b>)
+
+---
+
+---
 
 !["Ground CardSeparator"](CardSeparator.png)
 
-<h2 align='center' id="CardTypesHeader"> <strong><u>Card Types</strong></u> </h2>
+<h1 align='center' id="CardTypesHeader"> <strong><u>Card Types</strong></u> </h1>
 
 
 
