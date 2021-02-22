@@ -98,13 +98,13 @@
 ---
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
 
-<h3 align='center' id="GoalHeader"><strong><u>The Goal:</u></strong></h3>
-<p align='center'> of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
+<h3 align='center' id="GoalHeader"><strong><u>The Goal</u>:</strong></h3>
+<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
 
 ---
 
-<h3 align='center' id="VictoryHeader"><strong><u>Victory is accomplished by:</u></strong></h3>
-<p align='center'>playing Equipment Cards on your Quartermaster to be prepared for use by your Knights and Peasants. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
+<h3 align='center' id="VictoryHeader"><strong><u>Victory</u>:</strong></h3>
+<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your Knights and Peasants. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
 
 ---
 
@@ -233,9 +233,8 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and Peasants. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment Card </a> played here enters preparation.  The only time an Equipment card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant.  
-
-<p align='center'> <br />  <br /> Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns. The only way to remove an Equipment Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.</p>
+<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and Peasants. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment Card </a> played here enters preparation.  The only time an Equipment card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant. Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
+<b>Note:</b> <i>The only way to remove an Equipment Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.</i></p>
 
 ---
 
@@ -253,12 +252,19 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 ---
 
 <h2 id="KnightSlotHeader"><u>Knight Slot</u> : </h2>
-<p> <li align='left'>Equipment cards played here act as Armor. Armor is used to protect your King from attacking rivals. An Equipped Knight is required to defend his King. Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard (Note: This is not a Discard Move). <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+
+<li>Defender of the King. <li align='left'>Play a piece of prepared <a href="#EquipmentCardHeader">Equipment</a> on your Knight in order to provide defense for your King. <li align='left'>When an opponent attacks, your Equipped Knight is required to defend the King. <li align='left'>Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#BattleHeader">Battle for more information.</a></li>
 
 ---
 
 <h2 id="PeasantSlotHeader"><u>Peasant Slot</u> : </h2>
-<p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. Weaponry is used to attack rival kingdoms. An Equipped <a href="#PeasantHeader">Peasant</a> can use their weapon only <u>once</u>. After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard.  The opposing players response is dependent on what they have available for defenses. An opposing player can block some or all of your Peasants attack with his/her Knight or Queen if avaiable. <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+
+<p><li align='left'>Battle fodder for your kingdom. <li align='left'>Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom. 
+<p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. <li align='left'>An Equipped <a href="#PeasantHeader">Peasant</a> can use their weapon only <u>once</u>. <li align='left'>After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+
+---
+
+<i><b>Note:</b> Equipping counts as a play move, as does Attacking. Therefore, you may not Equip and Attack on the same turn!</i>
 
 ---
 
@@ -267,7 +273,7 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 ---
 
 <h2 id="QueenSlotHeader"><u>Queen Slot</u> : </h2>
-<p> <li align='left'>Your <a href="#QueenHeader">Queen</a> is the last line of defense for your King. A Queen played in this slot, will absorb all damage done to your King one time. A Kingdom with no Knight <strong>MUST</strong> be defended by your Queen. A Queen that has seen battle must then be placed at the very bottom of the Graveyard.</p>
+<p> <li align='left'>Your <a href="#QueenHeader">Queen</a> is the last line of defense for your King.</li><li align='left'> A Queen played in this slot, will absorb all damage done to your King one time.</li> <li align='left'>A Kingdom with no Knight <strong>MUST</strong> be defended by your Queen. </li><li align='left'>A Queen that has seen battle must then be placed at the very bottom of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul></p>
 
 ---
 
@@ -366,19 +372,13 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 <h1 align='center' id="UnitTypesHeader"> <strong>-<u>Unit Types</strong>-</u> </h1>
 
-<h2 align='center' id="KnightHeader"> <strong><u>Knight</strong></u> </h2>
 
-<p align='center'>Defender of the King. Play a piece of equipment on your Knight in order to provide defense for your King. When an opponent attacks, your Knight is required to defend the King. 
-
-</p>
 
 ---
 
 <h2 align='center' id="PeasantHeader"> <strong><u>Peasant</strong></u> </h2>
 
-<p align='center'>Battle fodder for your kingdom. Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom.</p>
 
-<i><b>Note:</b> Equipping counts as a play move, as does Attacking. Therefore, you may not Equip and Attack on the same turn!</i>
 
 ---
 
