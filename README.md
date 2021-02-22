@@ -94,10 +94,13 @@
 !["CardSeparator"](CardSeparator.png)
 
 ---
-
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
+
 <h3 align='center' id="GoalHeader"><strong><u>The Goal:</u></strong></h3>
-<p align='center'> of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a>(deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be Equipment Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
+<p align='center'> of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
+
+---
+
 <h3 align='center' id="VictoryHeader"><strong><u>Victory is accomplished by:</u></strong></h3>
 <p align='center'>playing Equipment Cards on your Quartermaster to be prepared for use by your Knights and Peasants. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
 
