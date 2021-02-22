@@ -122,11 +122,12 @@
 
  <h3 id="PlayMoveHeader">A <b><i>Play Move</i></b> is any of the following: </h3>
  <ul>
+ <li><a href="AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
 <li> Moving Prepared Equipment from the to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
 <li> Placing your suit's Queen next to the King.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
-<li> Using an Ace to resurrect a card from the graveyard.</li>
+<li> Using an Ace to Resurrect a card from the graveyard.</li>
 </ul>
 
 ---
@@ -234,7 +235,7 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 <h2 id="EquipmentCardHeader" align='center'><b><u>Equipment Cards (numbered suits)</u></b></h2>
 
 <p align='center'>
-These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
+These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost. Equip an Equipment Card to your Peasant to allow him to attack on a future play move. The Peasant can attack for the value indicated on the Equipment Card. Likewise, equip your Equipment Card to a Knight, to add that cards value in defense to your Knight. Use the Knight do defend your King. More information can be found in the section on "Attack Play Move"
 </p>
 
 ---
