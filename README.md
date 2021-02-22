@@ -181,6 +181,22 @@
 
 ---
 
+<h3 id="AttackDefendHeader"><b><i>Attack and Defending</i></b></h3>
+<h3 align='left'><u>Attack</u></h3> 
+<li> The Peasant attacks for damage points equal to the number value on the Equipment Card.</li>
+<li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending King.</li>
+<li> An attacking Peasant may only use an Equipment Card once. 
+    <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li> </ul>
+</li></ul>
+
+<h3 align='left'><u>Defend</u></h3>
+<li>A Defending Knight absorbs Peasant attack damage only up to the value listed on the Knights Equipment.<ul><li>Peasant attack damage beyond the Knights defense value is applied as Damage to the Kings Health Points. <li>In the event that a Knight falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her King.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending King's health points.</li></li></ul></li>
+<li> A Defending Knight may only use an Equipment Card once. 
+    <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li></ul></li>
+</ul>
+
+---
+
 !["CardSeparator"](CardSeparator.png)
 
 ---
@@ -361,11 +377,11 @@ __Tip__: Removing 1 counter from your Quartermaster should be the first thing yo
 
 <p align='center'>Battle fodder for your kingdom. Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom.</p>
 
----
-
-<p> <b>(Note: Equipping counts as a play move, as does Attacking. Therefore, you may not Equip and Attack on the same turn!)</b></p>
+<i><b>Note:</b> Equipping counts as a play move, as does Attacking. Therefore, you may not Equip and Attack on the same turn!</i>
 
 ---
+
+
 
 !["CardSeparator"](CardSeparator.png)
 
