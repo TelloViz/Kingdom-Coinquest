@@ -105,18 +105,19 @@
      * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__ in your hand.
 
 2) Play Phase 
-     * Make 1 ___play move___.
+     * Make 1 __play move__. (_see Play Move List below_)
 
 3) Discard Phase
       * Place __1 card__ from your hand to either your __salvage yard__ or the top of the __graveyard__.
 
 ---
 
- A ___play move___ is any of the following: 
+ <h3 id="PlayMoveHeader">A <b><i>Play Move</i></b> is any of the following: </h3>
  <ul>
-<li> Placing equipment on the <a href="#QuartermasterHeader">quartermaster</a> to be prepared </li>
-<li> Equipping prepared equipment gathered from the <a href="#QuartermasterHeader">quartermaster</a> to Knight or Peasant.</li>
-<li> Placing a Queen next to the King.</li>
+<li> Placing an Equipment Card on the <a href="#QuartermasterHeader">quartermaster</a> to be prepared. </li>
+<li> Moving Prepared Equipment from the to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
+<li> Placing a your suit's Queen next to the King.</li>
+<li> Placing a <a href="#RecruitedCardHeader">Recruited</a> Queen next to the King.</li>
 <li> Using an Ace to resurrect a card from the graveyard.</li>
 </ul>
 
