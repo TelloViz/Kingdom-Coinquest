@@ -155,7 +155,8 @@
 
 <ol>
 <li id="DrawPhaseHeader"> Draw Phase</li>
-    <ul><li> Draw cards in any combination from the <a href="ForgeHeader">Forge</a>, <a href="GraveyardHeader">Graveyard</a> or <a href="SalvageYardHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li></ul>
+    <ul><li> Draw cards in any combination from the <a href="ForgeHeader">Forge</a>, <a href="GraveyardHeader">Graveyard</a> or <a href="SalvageYardHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li>
+    <li><u>Immediately</u> remove 1 counter from your Quartermaster if preparing Equipment.</li></ul>
 
 <li id="PlayPhaseHeader"> Play Phase</li> 
      <ul><li> Make 1 Play Move. <i>(see Play Move List below)</i> </li></ul>
@@ -326,6 +327,8 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 
 <p align='center'>
 These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost. Equip an Equipment Card to your Peasant to allow him to attack on a future play move. The Peasant can attack for the value indicated on the Equipment Card. Likewise, equip your Equipment Card to a Knight, to add that cards value in defense to your Knight. Use the Knight do defend your King. More information can be found in the section on "Attack Play Move"
+
+<br/><b>Note:</b> To unequip an Equipment Card, simply replace it with a different prepared Equipment Card. The equipment being replaced is then placed on the top of the Graveyard. This <strong>does not</strong> count as your <a href="#DiscardPhaseHeader">Discard Phase.</a></h3>
 </p>
 
 ---
