@@ -95,7 +95,7 @@
 ---
 
 <h3 align='center' id="VictoryHeader"><strong><u>Victory</u>:</strong></h3>
-<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader">Peasants</a>. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
+<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader">Peasants</a>. Once prepared an <a href="#EquipmentCardHeader">Equipment</a> card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your <a href="#KingHeader">King</a>. Once a King has depleted his 20 health points, he is no longer in play. Be the last <a href="#KingHeader">King</a> standing and you are victorious!</p>
 
 ---
 
@@ -118,17 +118,17 @@
   <li> Separate the 4 Kings from the deck.
      <ul><li>Shuffle the Kings and place them face down.</li>
      <li>Each player in turn then draws their king for the game.</li>
-     <li>Place your King as shown in the figure above.</li>
+     <li>Place your <a href="#KingHeader">King</a> as shown in the figure above.</li>
      <li>Set the remaining Kings aside for the remainder of the game. </li></ul></li>
   <li>Shuffle the remaining cards that are the non-kings/non-joker.
-     <ul><li>This is the <b>forge</b>. It is essentially the deck that players will draw from.</li>
+     <ul><li>This is the <a href="#ForgeSlotHeader"><b>forge</b></a>. It is essentially the deck that players will draw from.</li>
      <li>Place the forge in the location indicated in the figure above.</li></ul>
-  <li>Each player place 20 counters on their King.</li>
+  <li>Each player place 20 counters on their <a href="#KingHeader">King</a>.</li>
      <ul><li>This is to keep track of his Health Points remaining.</li></ul>
 
 ---
 
-### __Note__: At this point, each player should have 1 King in front of them and there is only one deck of cards face down, in the location labeled "forge" on the set-up figure.
+### __Note__: At this point, each player should have (1) King in front of them and there is only one deck of cards face down, in the location labeled "forge" on the set-up figure.
 
 ---
 
@@ -155,13 +155,13 @@
 <ol>
 <li id="DrawPhaseHeader"> Draw Phase</li>
     <ul><li> Draw cards in any combination from the <a href="#ForgeSlotHeader">Forge</a>, <a href="#GraveyardSlotHeader">Graveyard</a> or <a href="#SalvageYardSlotHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li>
-    <li><u>Immediately</u> remove 1 counter from your Quartermaster if preparing Equipment.</li></ul>
+    <li><u>Immediately</u> remove 1 counter from your Quartermaster if preparing <a href="#EquipmentCardHeader">Equipment</a>.</li></ul>
 
 <li id="PlayPhaseHeader"> Play Phase</li> 
-     <ul><li> Make 1 Play Move. <i>(see Play Move List below)</i> </li></ul>
+     <ul><li> Make 1 <a href="#PlayMoveHeader">Play Move</a>. <i>(see Play Move List below)</i> </li></ul>
 
 <li id="DiscardPhaseHeader"> Discard Phase</li>
-      <ul><li> Place 1 card from your hand to either your Salvage Yard or the top of the Graveyard.</li></ul>
+      <ul><li> Place 1 card from your hand to either your <a href="#SalvageYardSlotHeader">Salvage Yard</a> or the top of the <a href="#GraveyardSlotHeader">Graveyard</a>.</li></ul>
 
 </ul>
 </ol>
@@ -172,27 +172,27 @@
  <ul>
  
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
-<li> Moving Prepared Equipment from the Quartermaster to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
+<li> Moving Prepared <a href="#EquipmentCardHeader">Equipment</a> from the Quartermaster to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
 <li><a href="#AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
-<li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the King.</li>
+<li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the <a href="#KingHeader">King</a>.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
-<li> Using an <a href="#AceHeader">Ace</a> to Resurrect a card from the graveyard.</li>
+<li> Using an <a href="#AceHeader">Ace</a> to <a href="#ResurrectedCardHeader">Resurrect</a> a card from the <a href="#GraveyardSlotHeader">Graveyard</a>.</li>
 </ul>
 
 ---
 
 <h3 id="AttackDefendHeader"><b><i><u>Attack and Defending</u></i></b></h3>
 <h3 id="AttackHeader" align='left'><u>Attack</u></h3> 
-<li> The Peasant attacks for damage points equal to the number value on the Equipment Card.</li>
-<li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending King.</li>
-<li> An attacking Peasant may only use an Equipment Card once. 
-    <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li> </ul>
+<li> The Peasant attacks for damage points equal to the number value on the <a href="#EquipmentCardHeader">Equipment</a> Card.</li>
+<li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending <a href="#KingHeader">King</a>.</li>
+<li> An attacking Peasant may only use an <a href="#EquipmentCardHeader">Equipment</a> Card once. 
+    <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the Graveyard face-up</li> </ul>
 </li></ul>
 
 <h3 id="DefendHeader" align='left'><u>Defend</u></h3>
-<li>A Defending Knight absorbs Peasant attack damage only up to the value listed on the Knights Equipment.<ul><li>Peasant attack damage beyond the Knights defense value is applied as Damage to the Kings Health Points. <li>In the event that a Knight falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her King.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending King's health points.</li></li></ul></li>
-<li> A Defending Knight may only use an Equipment Card once. 
-    <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li></ul></li>
+<li>A Defending Knight absorbs Peasant attack damage only up to the value listed on the Knights <a href="#EquipmentCardHeader">Equipment</a>.<ul><li>Peasant attack damage beyond the Knights defense value is applied as Damage to the Kings Health Points. <li>In the event that a Knight falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her <a href="#KingHeader">King</a>.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending <a href="#KingHeader">King</a>'s health points.</li></li></ul></li>
+<li> A Defending Knight may only use an <a href="#EquipmentCardHeader">Equipment</a> Card once. 
+    <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the Graveyard face-up</li></ul></li>
 </ul>
 
 ---
@@ -227,8 +227,8 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and Peasants. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment Card </a> played here enters preparation.  The only time an Equipment card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant. Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
-<b>Note:</b> <i>The only way to remove an Equipment Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.</i></p>
+<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and Peasants. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
+<b>Note:</b> <i>The only way to remove an <a href="#EquipmentCardHeader">Equipment</a> Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.</i></p>
 
 ---
 
@@ -247,7 +247,7 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 <h2 id="KnightSlotHeader"><u>Knight Slot</u> : </h2>
 
-<li>Defender of the King. <li align='left'>Play a piece of prepared <a href="#EquipmentCardHeader">Equipment</a> on your Knight in order to provide defense for your King. <li align='left'>When an opponent attacks, your Equipped Knight is required to defend the King. <li align='left'>Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#AttackDefendHeader">Battle for more information.</a></li>
+<li>Defender of the <a href="#KingHeader">King</a>. <li align='left'>Play a piece of prepared <a href="#EquipmentCardHeader">Equipment</a> on your Knight in order to provide defense for your <a href="#KingHeader">King</a>. <li align='left'>When an opponent attacks, your Equipped Knight is required to defend the <a href="#KingHeader">King</a>. <li align='left'>Once a Knight has seen battle, the <a href="#EquipmentCardHeader">Equipment</a> card must be placed on the top of the Graveyard <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#AttackDefendHeader">Battle for more information.</a></li>
 
 ---
 
@@ -262,12 +262,12 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 ---
 
-<b>Note:</b> <i>You don't attack the rival King, only the rival Kingdom.</i>
+<b>Note:</b> <i>You don't attack the rival <a href="#KingHeader">King</a>, only the rival Kingdom.</i>
 
 ---
 
 <h2 id="QueenSlotHeader"><u>Queen Slot</u> : </h2>
-<p> <li align='left'>Your <a href="#QueenHeader">Queen</a> is the last line of defense for your King.</li><li align='left'> A Queen played in this slot, will absorb all damage done to your King one time.</li> <li align='left'>A Kingdom with no Knight <strong>MUST</strong> be defended by your Queen. </li><li align='left'>A Queen that has seen battle must then be placed at the very bottom of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul></p>
+<p> <li align='left'>Your <a href="#QueenHeader">Queen</a> is the last line of defense for your <a href="#KingHeader">King</a>.</li><li align='left'> A <a href="#QueenHeader">Queen</a> played in this slot, will absorb all damage done to your <a href="#KingHeader">King</a> one time.</li> <li align='left'>A Kingdom with no Knight <strong>MUST</strong> be defended by your Queen. </li><li align='left'>A <a href="#QueenHeader">Queen</a> that has seen battle must then be placed at the very bottom of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul></p>
 
 ---
 
@@ -303,7 +303,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="HeartQueen.png">
 </p>
 
-<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated queen is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
+<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The <a href="#QueenHeader">Queen</a> will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated <a href="#QueenHeader">Queen</a> is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
 </p>
 
 <br />
@@ -320,7 +320,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 <p align='center'> 
 The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the Quartermaster.<br /><br/>
 <b>Note:</b> <i>Only 1 Jack can be in play per player at any time.</i>
-<br /><b>Note:</b> <i>A Jack can only be used on Equipment Cards.</i> <br /> <b>(He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.)</b>
+<br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an Ace. These cards may be Recruited, but not with a Jack.)</b>
 </p>
 
 <br />
@@ -355,7 +355,7 @@ These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quar
 
 <h2 id="RecruitedCardHeader" align='center'><b><u>Recruited Cards</u></b></h2>
 
-A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A Jack (wild card) may only be used for Recruiting Equipment (number valued cards). A Jack cannot be used in Recruiting a Queen or Ace.
+A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A Jack (wild card) may only be used for Recruiting <a href="#EquipmentCardHeader">Equipment</a> (number valued cards). A Jack cannot be used in Recruiting a <a href="#QueenHeader">Queen</a> or Ace.
 
 ---
 
