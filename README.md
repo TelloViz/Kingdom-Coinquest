@@ -173,23 +173,23 @@
  
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
 <li> Moving Prepared Equipment from the Quartermaster to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
-<li><a href="AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
-<li> Placing your suit's Queen next to the King.</li>
+<li><a href="#AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
+<li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the King.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
-<li> Using an Ace to Resurrect a card from the graveyard.</li>
+<li> Using an <a href="#AceHeader">Ace</a> to Resurrect a card from the graveyard.</li>
 </ul>
 
 ---
 
 <h3 id="AttackDefendHeader"><b><i>Attack and Defending</i></b></h3>
-<h3 align='left'><u>Attack</u></h3> 
+<h3 id="AttackHeader" align='left'><u>Attack</u></h3> 
 <li> The Peasant attacks for damage points equal to the number value on the Equipment Card.</li>
 <li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending King.</li>
 <li> An attacking Peasant may only use an Equipment Card once. 
     <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li> </ul>
 </li></ul>
 
-<h3 align='left'><u>Defend</u></h3>
+<h3 id="DefendHeader" align='left'><u>Defend</u></h3>
 <li>A Defending Knight absorbs Peasant attack damage only up to the value listed on the Knights Equipment.<ul><li>Peasant attack damage beyond the Knights defense value is applied as Damage to the Kings Health Points. <li>In the event that a Knight falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her King.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending King's health points.</li></li></ul></li>
 <li> A Defending Knight may only use an Equipment Card once. 
     <ul><li>The Equipment breaks and is placed on the top of the Graveyard face-up</li></ul></li>
