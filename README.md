@@ -90,7 +90,7 @@
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
 
 <h3 align='center' id="GoalHeader"><strong><u>The Goal</u>:</strong></h3>
-<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, <a href="#QueenHeader">Queen</a> Cards, <a href="#JackHeader">Jack</a> Cards or <a href="#AceHeader">Ace</a> Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as <a href="#RecruitedCardHeader">Recruiting</a>. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
+<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, <a href="#QueenHeader">Queen</a> Cards, <a href="#JackHeader">Jack</a> Cards or <a href="#AceHeader">Ace</a> Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as <a href="#RecruitedCardHeader">Recruiting</a>. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal <a href="#SalvageYardSlotHeaderr">Salvage Yard</a> slots, only you can access these cards in the future. However, space is limited in the <a href="#SalvageYardSlotHeaderr">Salvage Yard</a>. Only 3 cards total can be stored here.</p>
 
 ---
 
@@ -155,7 +155,7 @@
 <ol>
 <li id="DrawPhaseHeader"> Draw Phase</li>
     <ul><li> Draw cards in any combination from the <a href="#ForgeSlotHeader">Forge</a>, <a href="#GraveyardSlotHeader">Graveyard</a> or <a href="#SalvageYardSlotHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li>
-    <li><u>Immediately</u> remove 1 counter from your Quartermaster if preparing <a href="#EquipmentCardHeader">Equipment</a>.</li></ul>
+    <li><u>Immediately</u> remove 1 counter from your <a href="#QuartermasterSlotHeader">Quartermaster</a> if preparing <a href="#EquipmentCardHeader">Equipment</a>.</li></ul>
 
 <li id="PlayPhaseHeader"> Play Phase</li> 
      <ul><li> Make 1 <a href="#PlayMoveHeader">Play Move</a>. <i>(see Play Move List below)</i> </li></ul>
@@ -172,7 +172,7 @@
  <ul>
  
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
-<li> Moving Prepared <a href="#EquipmentCardHeader">Equipment</a> from the Quartermaster to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
+<li> Moving Prepared <a href="#EquipmentCardHeader">Equipment</a> from the <a href="#QuartermasterSlotHeader">Quartermaster</a> to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
 <li><a href="#AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
 <li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the <a href="#KingHeader">King</a>.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
@@ -318,7 +318,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 </p>
 
 <p align='center'> 
-The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the Quartermaster.<br /><br/>
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the <a href="#QuartermasterSlotHeader">Quartermaster</a>.<br /><br/>
 <b>Note:</b> <i>Only 1 Jack can be in play per player at any time.</i>
 <br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an Ace. These cards may be Recruited, but not with a Jack.)</b>
 </p>
@@ -336,7 +336,7 @@ The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild car
 </p>
 
 <p align='center'>
-The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <br /> <b>Note:</b> <i>Ressurected cards do not need to be prepared by the quartermaster</i>
+The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <br /> <b>Note:</b> <i>Ressurected cards do not need to be prepared by the <a href="#QuartermasterSlotHeader">Quartermaster</a></i>
 </p>
 
 <br />
