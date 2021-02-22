@@ -168,7 +168,7 @@
 
 ---
 
- <h3 id="PlayMoveHeader">A <b><i>Play Move</i></b> is any of the following: </h3>
+ <h3 id="PlayMoveHeader">A <b><i><u>Play Move</u></i></b> is any of the following: </h3>
  <ul>
  
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
@@ -181,7 +181,7 @@
 
 ---
 
-<h3 id="AttackDefendHeader"><b><i>Attack and Defending</i></b></h3>
+<h3 id="AttackDefendHeader"><b><i><u>Attack and Defending</u></i></b></h3>
 <h3 id="AttackHeader" align='left'><u>Attack</u></h3> 
 <li> The Peasant attacks for damage points equal to the number value on the Equipment Card.</li>
 <li>Any Attack damage from your Peasant, that doesn't get defended, is applied to the defending King.</li>
