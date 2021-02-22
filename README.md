@@ -1,10 +1,3 @@
-
-
-
- 
-
-
-
 [![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
 <h1 align='center'> 
@@ -17,46 +10,61 @@
 
 <h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! </h2>  
  
+ ---
 
 !["CardSeparator"](CardSeparator.png)
+
+---
 
 ### _The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!_
 
+---
+
 !["CardSeparator"](CardSeparator.png)
 
-<h2 align='center'> <strong><u>Requirements</u></strong> </h2>
+---
+
+<h2> <u>Requirements</u> </h2>
+
+
 
 - 2-4 players __(_*untested beyond 2_)__
 - Deck of 52 standard playing cards
 - Quarter, Nickel, Penny __(optional placement reminders for Quartermaster, Knight and Peasant)__
 - Counters __(Ex: Beans, beads, pencil/paper, _sharp memory_ )__
 
-<br />
-<br />
-
-!["CardSeparator"](CardSeparator.png)
-
-<h2 align='center'> <u><strong>Your Turn</strong></u> </h2>
-
-<br />
-
-<h3 align='center'> <b>1) <u>Draw Phase</u> </h3>
-<p align='center'> Draw in any combination from Forge, Graveyard or Salvage until you have 3 cards. </p>
-<h3 align='center'> <b>2) <u>Play Phase</u> </h3>
-<p align='center'> Make 1 play move.</p>
-
 ---
 
-A play move is any of the following: 
+<h2> <u>Set-Up</u> </h2>
+
+!["GameSetup"](GameSetup.png)
+### This setup will be duplicated by each player. __(Note: Forge and Graveyard are community piles!)__
+---
+
+<h2> <u>Your Turn</u> </h2>
+
+<h3><i> It is <u>important</u> to take your turn in the following order:</i></h2>
+
+<br />
+
+1. Draw Phase
+     * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__.
+
+2) Play Phase 
+     * Make 1 ___play move___.
+
+3) Discard Phase
+      * Place __1 card__ from your hand to either your __salvage yard__ or the top of the __graveyard__.
+  
+---
+
+ A ___play move___ is any of the following: 
 - Placing equipment on the Quartermaster to be prepared
 - Equipping prepared equipment gathered from the Quartermaster to Knight or Peasant.
 - Placing a Queen next to the King.
 - Using an Ace to ressurect a card from the graveyard.
-- 
 
 ---
-
-<h3 align='center'> <b>3) <u>Discard Phase</u> </h3>
 
 <br />
 <br />
@@ -111,7 +119,8 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="Jacks.png">
 </p>
 
-<p align='center'> The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to recruit any <i>Equipement</i> card to your allegience. <b>Note: Only 1 Jack can be in play per player at any time.</b>
+<p align='center'> 
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to recruit any <br /> <i>Equipement</i> card to your allegience. <br /><b>(Note: Only 1 Jack can be in play per player at any time.) </b>
 </p>
 
 <br />
