@@ -35,6 +35,7 @@
     <li>Discard Phase</li>
   </ul>
 </li>
+<li><a href="#PlayFieldHeader"><u>Play Field</u></a></li>
 <li><a href="#CardTypesHeader"><u>Card Types</u></a></li>
 <li><a href="#UnitTypesHeader"><u>Unit Types</u></a></li>
 </ul>
@@ -59,7 +60,7 @@
 
 ---
 
-<h2 id="SetupHeader"> <u>Set-Up</u> </h2>
+<h1 align='center' id="SetupHeader"> <strong><u>Set-Up</u></strong> </h2>
 
 
 !["GameSetup"](GameSetup.png)
@@ -120,6 +121,10 @@
 <li> Placing a <a href="#RecruitedCardHeader">Recruited</a> Queen next to the King.</li>
 <li> Using an Ace to resurrect a card from the graveyard.</li>
 </ul>
+
+---
+
+!["CardSeparator"](CardSeparator.png)
 
 ---
 
@@ -259,6 +264,10 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 * 2-4 	= 1 turn preparation
 * 5-7 	= 2 turns preparation
 * 8-10 	= 3 turns preparation
+
+---
+
+!["CardSeparator"](CardSeparator.png)
 
 ---
 
