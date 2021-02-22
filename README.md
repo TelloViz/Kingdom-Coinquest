@@ -60,6 +60,10 @@
 
 ---
 
+!["CardSeparator"](CardSeparator.png)
+
+---
+
 <h1 align='center' id="SetupHeader"> <strong><u>Set-Up</u></strong> </h2>
 
 
@@ -96,11 +100,15 @@
 
 ---
 
+!["CardSeparator"](CardSeparator.png)
+
+---
+
 <h1 align='center' id="YourTurnHeader"> <strong><u>Your Turn</u></strong> </h2>
 
 <h3><i> It is <u>important</u> to take your turn in the following order:</i></h2>
 
-<br />
+---
 
 1. Draw Phase
      * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__ in your hand.
