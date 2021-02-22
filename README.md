@@ -59,8 +59,38 @@
 
 <h2 id="SetupHeader"> <u>Set-Up</u> </h2>
 
+
 !["GameSetup"](GameSetup.png)
+
+---
+
 ### This setup will be duplicated by each player. __(Note: Forge and Graveyard are community piles!)__
+
+---
+  1) Set aside Joker Cards
+  2) Separate the 4 Kings from the deck.
+     1) Shuffle the Kings and place them face down.
+     2) Each player in turn then draws their king for the game.
+     3) Place your King as shown in the figure above.
+     4) Set the remaining Kings aside for the remainder of the game.
+  3) Shuffle the remaining cards that are the non-kings/non-joker.
+     1) This is the <b>forge</b>. It is essentially the deck that players will draw from.
+     2) Place the forge in the location indicated in the figure above.
+
+---
+
+### __Note__: At this point, each player should have 1 King in front of them and there is only one deck of cards face down, in the location labelled "forge" on the set-up figure.
+
+---
+
+<h2 id="TurnOrderHeader"> <u>Turn Order:</u> </h2>
+<p>
+  1) Heart Kingdom <span> &#9829 </span> <br />
+  2) Spade Kingdom <span> &#9824 </span> <br />
+  3) Diamond Kingdom <span> &#9830 </span> <br />
+  4) Club Kingdom <span> &#9827 </span> <br />
+</p>
+
 ---
 
 <h2 id="YourTurnHeader"> <u>Your Turn</u> </h2>
@@ -77,7 +107,7 @@
 
 3) Discard Phase
       * Place __1 card__ from your hand to either your __salvage yard__ or the top of the __graveyard__.
-  
+
 ---
 
  A ___play move___ is any of the following: 
@@ -85,7 +115,7 @@
 <li> Placing equipment on the <a href="#QuartermasterHeader">quartermaster</a> to be prepared </li>
 <li> Equipping prepared equipment gathered from the <a href="#QuartermasterHeader">quartermaster</a> to Knight or Peasant.</li>
 <li> Placing a Queen next to the King.</li>
-<li> Using an Ace to ressurect a card from the graveyard.</li>
+<li> Using an Ace to resurrect a card from the graveyard.</li>
 </ul>
 
 ---
