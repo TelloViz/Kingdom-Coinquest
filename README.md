@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align='center'> <i>The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</i> </h3>
+<h3 align='center'> <i>The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that dusty old deck of cards!</i> </h3>
 
 ---
 
@@ -38,7 +38,7 @@
 <li><a href="#YourTurnHeader"><u>Your Turn</u></a>
   <ul>
     <li><a href="#DrawPhaseHeader">Draw Phase</a></li>
-    <li><a href="#PlayPhaseHeader">Play Phase</a></li>
+    <li><a href="#PlayPhaseHeader">Play Phase</a> <ul><li><a href="#PlayMoveHeader">Play Moves</a></li><li><a href="#AttackDefendHeader">Attacking and Defending</a> <ul><li><a href="#AttackHeader">Attacking</a></li><li><a href="#DefendHeader">Defending</a></li></ul></li></ul></li>
     <li><a href="#DiscardPhaseHeader">Discard Phase</a></li>
   </ul>
 </li>
@@ -69,7 +69,9 @@
 <li><a href="#UnitTypesHeader"><u>Unit Types</u></a>
 
 <ul>
-      <li><a href="#QuartermasterHeader">Quartermaster</a></li>
+      <li><a href="#QuartermasterHeader">Quartermaster</a>
+        <ul><li><a href="#PreparationCostsHeader">Preparation Costs</li></ul>
+      </li>
       <li><a href="#KnightHeader">Knight</a></li>
       <li><a href="#PeasantHeader">Peasant</a></li>
 
