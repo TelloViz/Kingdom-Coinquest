@@ -266,7 +266,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="HeartQueen.png">
 </p>
 
-<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated queen is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /><i><b>Note: Only 1 Queen can be active per player at a time.</b></i>
+<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated queen is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /><i><b>Note:</b> Only 1 Queen can be active per player at a time.</i>
 </p>
 
 <br />
@@ -281,15 +281,14 @@ These kings are not used in game, they are set aside outside of the play area. <
 </p>
 
 <p align='center'> 
-The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> any <br /> <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared by the Quartermaster.<br />
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the Quartermaster.<br /><br/>
 <b>Note:</b> Only 1 Jack can be in play per player at any time.)
-<br /><b>Note:</b> A Jack can only be used on Equipment Cards. <br /> He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.
+<br /><b>Note:</b> A Jack can only be used on Equipment Cards. <br /> <i>(He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.)</i>
 </p>
 
 <br />
 <br />
-<br />
-<br />
+
 
 ---
 
