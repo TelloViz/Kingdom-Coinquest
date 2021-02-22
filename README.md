@@ -46,9 +46,6 @@
 
 ---
 
-<br />
-
-
 <h1 id="RequirementsHeader" align='center'> <strong><u>Requirements</u></strong> </h1>
 
 - 2-4 players __(_*untested beyond 2_)__
