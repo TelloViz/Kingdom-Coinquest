@@ -28,7 +28,13 @@
 <ul>
 <li><a href="#RequirementsHeader"><u>Requirements</u></a>
 <li><a href="#SetupHeader"><u>Set-up</u></a></li>
-<li><a href="SynopsisHeader"><u>Synopsis</u></a></li>
+<li><a href="#SynopsisHeader"><u>Synopsis</u></a>
+  <ul>
+    <li><a href="#GoalHeader">The Goal</a></li>
+    <li><a href="#VictoryHeader">Accomplishing Victory</a></li>
+
+  </ul>
+</li>
 <li><a href="#YourTurnHeader"><u>Your Turn</u></a>
   <ul>
     <li><a href="#DrawPhaseHeader">Draw Phase</a></li>
@@ -61,9 +67,9 @@
 ---
 
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
-<h3 align='center'><strong><u>The Goal:</u></strong></h3>
+<h3 align='center' id="GoalHeader"><strong><u>The Goal:</u></strong></h3>
 <p align='center'> of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The Forge(deck), The Graveyard (community discard) or your Salvage Yard (your set of 3 personal discard slots). The cards in hand could be Equipment Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
-<h3 align='center'><strong><u>Victory is accomplished by:</u></strong></h3>
+<h3 align='center' id="VictoryHeader"><strong><u>Victory is accomplished by:</u></strong></h3>
 <p align='center'>playing Equipment Cards on your Quartermaster to be prepared for use by your Knights and Peasants. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
 
 ---
@@ -173,6 +179,14 @@
 (<b>Note: Only 1 card per Salvage spot. 3 total salvage cards per player at any time. </b>)
 
 ---
+
+<h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
+<p> <li align='left'>1 card may be played here at a time. A card played here enters preparation. Equipment cards must be prepared by the Quartermaster in order to then be equipped to your Knight or Peasant in a future Play Phase. The only time a card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant.  </p>
+
+---
+
+<h2 id="KnightSlotHeader"><u>Knight Slot</u> : </h2>
+<p> <li align='left'>Equipment cards played here act as Armor. Armor is used to protect your King from attacking rivals. An Equipped Knight is required to defend his King. Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard (Note: This is not a Discard Move). See section on <a href="#BattleHeader">Battle for more information.</a></p>
 
 ---
 
