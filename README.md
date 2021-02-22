@@ -367,33 +367,3 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 !["CardSeparator"](CardSeparator.png)
 
----
-
-
-<h1 align='center' id="UnitTypesHeader"> <strong>-<u>Unit Types</strong>-</u> </h1>
-
-
-
----
-
-<h2 align='center' id="PeasantHeader"> <strong><u>Peasant</strong></u> </h2>
-
-
-
----
-
-
-
-!["CardSeparator"](CardSeparator.png)
-
----
-
-<br />
-<br />
-<br />
-<br />
-
-<details>
- <summary><strong>Extras</strong></summary>
-
-</details>
