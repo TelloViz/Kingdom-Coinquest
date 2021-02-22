@@ -28,9 +28,15 @@
 
 <h2><u>Table of Contents</u></h1>
 <ul>
-<li><a href="#RequirementsHeader"><u>Requirements</u></a></li>
+<li><a href="#RequirementsHeader"><u>Requirements</u></a>
 <li><a href="#SetupHeader"><u>Set-up</u></a></li>
-<li><a href="#YourTurnHeader"><u>Your Turn</u></a></li>
+<li><a href="#YourTurnHeader"><u>Your Turn</u></a>
+  <ul>
+    <li>Draw Phase</li>
+    <li>Play Phase</li>
+    <li>Discard Phase</li>
+  </ul>
+</li>
 <li><a href="#CardTypesHeader"><u>Card Types</u></a></li>
 <li><a href="#UnitTypesHeader"><u>Unit Types</u></a></li>
 </ul>
@@ -75,10 +81,12 @@
 ---
 
  A ___play move___ is any of the following: 
-- Placing equipment on the [Quartermaster](#quartermaster) to be prepared
-- Equipping prepared equipment gathered from the Quartermaster to Knight or Peasant.
-- Placing a Queen next to the King.
-- Using an Ace to ressurect a card from the graveyard.
+ <ul>
+<li> Placing equipment on the <a href="#QuartermasterHeader">quartermaster</a> to be prepared </li>
+<li> Equipping prepared equipment gathered from the <a href="#QuartermasterHeader">quartermaster</a> to Knight or Peasant.</li>
+<li> Placing a Queen next to the King.</li>
+<li> Using an Ace to ressurect a card from the graveyard.</li>
+</ul>
 
 ---
 
