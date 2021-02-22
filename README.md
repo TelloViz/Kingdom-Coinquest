@@ -281,13 +281,11 @@ These kings are not used in game, they are set aside outside of the play area. <
 </p>
 
 <p align='center'> 
-The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> any <br /> <a href="#EquipmentCardHeader">equipment</a> card to your allegience. <br /><b>(Note: Only 1 Jack can be in play per player at any time.) </b>
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> any <br /> <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared by the Quartermaster.<br />
+<b>Note:</b> Only 1 Jack can be in play per player at any time.)
+<br /><b>Note:</b> A Jack can only be used on Equipment Cards. <br /> He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.
 </p>
 
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
