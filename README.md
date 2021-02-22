@@ -157,6 +157,7 @@
 ---
 
 <h1 align='center' id="PlayFieldHeader"> <strong>-<u>Play Field</u>-</strong></h1>
+
 <h2><u>Forge</u> : </h2>
 <p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
 
@@ -186,7 +187,12 @@
 ---
 
 <h2 id="KnightSlotHeader"><u>Knight Slot</u> : </h2>
-<p> <li align='left'>Equipment cards played here act as Armor. Armor is used to protect your King from attacking rivals. An Equipped Knight is required to defend his King. Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard (Note: This is not a Discard Move). See section on <a href="#BattleHeader">Battle for more information.</a></p>
+<p> <li align='left'>Equipment cards played here act as Armor. Armor is used to protect your King from attacking rivals. An Equipped Knight is required to defend his King. Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard (Note: This is not a Discard Move). <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+
+---
+
+<h2 id="PeasantSlotHeader"><u>Peasant Slot</u> : </h2>
+<p> <li align='left'>Equipment cards played here act as Weaponry. Weaponry is used to attack rival kingdoms. An Equipped Peasant can use their weapon only once. After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard. <strong>Note: You don't attack the rival King, only the rival Kingdom.</strong> The opposing players response is dependent on what they have available for defenses. An opposing player can block some or all of your Peasants attack with his/her Knight or Queen if avaiable. <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
 
 ---
 
