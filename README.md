@@ -99,7 +99,7 @@
 
 
 
-## __King__
+<h2 id="KingHeader" align='center'><b><u>King</u></b></h2>
  <p>
   <img width="80" align='left' src="HeartKing.png">
 </p>
@@ -114,7 +114,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 
 ---
 
-### __Queen__
+<h2 id="QueenHeader" align='center'><b><u>Queen</u></b></h2>
 
 <p>
   <img width="80" align='left' src="HeartQueen.png">
@@ -128,14 +128,14 @@ These kings are not used in game, they are set aside outside of the play area. <
 ---
 
 
-### __Jack__ 
+<h2 id="JackHeader" align='center'><b><u>Jack</u></b></h2>
 
 <p>
   <img width="80" align='left' src="Jacks.png">
 </p>
 
 <p align='center'> 
-The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="RecruitedCardsHeader">recruit</a> any <br /> <i>Equipement</i> card to your allegience. <br /><b>(Note: Only 1 Jack can be in play per player at any time.) </b>
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> any <br /> <a href="#EquipmentCardHeader">equipment</a> card to your allegience. <br /><b>(Note: Only 1 Jack can be in play per player at any time.) </b>
 </p>
 
 <br />
@@ -163,13 +163,14 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 
 ---
 
-<h2 id="EquipmentCardsHeader"><b><u>Equipment Cards (numbered suits)</u></b></h2>
+<h2 id="EquipmentCardHeader" align='center'><b><u>Equipment Cards (numbered suits)</u></b></h2>
 
-These cards represent weapons and armor. The [Quartermaster](#Quartermaster) prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
-
+<p align='center'>
+These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
+</p>
 ---
 
-<h2 id="RecruitedCardsHeader"><b><u>Recruited Cards</u></b></h2>
+<h2 id="RecruitedCardHeader" align='center'><b><u>Recruited Cards</u></b></h2>
 
 A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit.  
 
@@ -179,18 +180,30 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 ---
 
+
+<h2 align='center' id="UnitTypeHeader"> <strong><u>Unit Types</strong></u> </h2>
+
 <br />
 
-<h2 align='center' id="UnitTypesHeader"> <strong><u>Unit Types</strong></u> </h2>
 
-### __Quartermaster__
+---
 
-The preparer and provider of weapons, armor and mana for your units. Each resource needs to be prepared by the quartermaster in order to use (unless stated otherwise). 
+!["CardSeparator"](CardSeparator.png)
 
-Preparation Costs
-2-4 	= 1 turn preparation
-5-7 	= 2 turns preparation
-8-10 	= 3 turns preparation
+---
+
+<h2 align='center' id="QuartermasterHeader"> <strong><u>Quartermaster</strong></u> </h2>
+
+<p align='center'>The preparer and provider of weapons and armor for your Knights and Peasants. <br /> Each resource needs to be prepared by the quartermaster in order to be used. 
+
+</p>
+
+---
+
+<h3 id="PreparationCostsHeader"><u>Preparation Costs</u></h3>
+* 2-4 	= 1 turn preparation
+* 5-7 	= 2 turns preparation
+* 8-10 	= 3 turns preparation
 
 ---
 
