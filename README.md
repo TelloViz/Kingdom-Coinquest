@@ -51,8 +51,6 @@
 
 <h1 id="RequirementsHeader" align='center'> <strong><u>Requirements</u></strong> </h1>
 
-
-
 - 2-4 players __(_*untested beyond 2_)__
 - Deck of 52 standard playing cards
 - Quarter, Nickel, Penny __(optional placement reminders for Quartermaster, Knight and Peasant)__
