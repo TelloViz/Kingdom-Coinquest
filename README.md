@@ -16,7 +16,7 @@
 
 ---
 
-### _The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!_
+<h3 align='center'> <i>The Deck of the Four Kingdoms is rife with conflict. You must crown your king, hone your steel, and command your people. Do you have the strategic mind to defeat your rival kings? Or, will your name fade with time? It's time to breathe life into that old deck of cards!</i> </h3>
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-<h1 id="RequirementsHeader" align='center'> <strong><u>Requirements</u></strong> </h1>
+<h1 id="RequirementsHeader" align='center'> <strong>-<u>Requirements</u>-</strong> </h1>
 
 - 2-4 players __(_*untested beyond 2_)__
 - Deck of 52 standard playing cards
@@ -59,7 +59,7 @@
 
 ---
 
-<h1 align='center' id="SetupHeader"> <strong><u>Set-Up</u></strong> </h2>
+<h1 align='center' id="SetupHeader"> <strong>-<u>Set-Up</u>-</strong> </h2>
 
 
 !["GameSetup"](GameSetup.png)
@@ -99,7 +99,7 @@
 
 ---
 
-<h1 align='center' id="YourTurnHeader"> <strong><u>Your Turn</u></strong> </h2>
+<h1 align='center' id="YourTurnHeader"> <strong>-<u>Your Turn</u>-</strong> </h2>
 
 <h3><i> It is <u>important</u> to take your turn in the following order:</i></h2>
 
@@ -135,7 +135,7 @@
 
 ---
 
-<h1 align='center' id="PlayFieldHeader"> <strong><u>Play Field</u></strong></h1>
+<h1 align='center' id="PlayFieldHeader"> <strong>-<u>Play Field</u>-</strong></h1>
 <h2><u>Forge</u> : </h2>
 <p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
 
@@ -163,7 +163,7 @@
 
 !["Ground CardSeparator"](CardSeparator.png)
 
-<h1 align='center' id="CardTypesHeader"> <strong><u>Card Types</strong></u> </h1>
+<h1 align='center' id="CardTypesHeader"> <strong>-<u>Card Types</strong></u>-</h1>
 
 
 
@@ -217,7 +217,7 @@ The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild car
 
 ---
 
-<h2 id="AceHeader" align='center'><u>Ace</u></h2>
+<h2 id="AceHeader" align='center'><strong><u>Ace</u></strong></h2>
 
 <p>
   <img width="80" align='left' src="AceHeart.png">
@@ -250,7 +250,7 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 ---
 
 
-<h1 align='center' id="UnitTypeHeader"> <strong><u>Unit Types</strong></u> </h1>
+<h1 align='center' id="UnitTypeHeader"> <strong>-<u>Unit Types</strong>-</u> </h1>
 
 <h2 align='center' id="QuartermasterHeader"> <strong><u>Quartermaster</strong></u> </h2>
 
