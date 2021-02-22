@@ -42,10 +42,42 @@
     <li><a href="#DiscardPhaseHeader">Discard Phase</a></li>
   </ul>
 </li>
-<li><a href="#PlayFieldHeader"><u>Play Field</u></a></li>
-<li><a href="#CardTypesHeader"><u>Card Types</u></a></li>
-<li><a href="#UnitTypesHeader"><u>Unit Types</u></a></li>
+<li><a href="#PlayFieldHeader"><u>Play Field Slots</u></a>
+  <ul>
+    <li><a href="#ForgeSlotHeader">Forge</a></li>
+    <li><a href="#GraveyardSlotHeader">Graveyard</a></li>
+    <li><a href="#SalvageYardSlotHeader">Salvage Yard</a></li>
+    <li><a href="#QuartermasterSlotHeader">Quartermaster</a></li>
+    <li><a href="#KnightSlotHeader">Knight</a></li>
+    <li><a href="#PeasantSlotHeader">Peasant</a></li>
+    <li><a href="#QueenSlotHeader">Queen</a></li>
+    <li><a href="#KingSlotHeader">King</a></li>
+    
+  </ul>
+</li>
+<li><a href="#CardTypesHeader"><u>Card Types</u></a>
+  <ul>
+      <li><a href="#KingHeader">King</a></li>
+      <li><a href="#QueenHeader">Queen</a></li>
+      <li><a href="#JackHeader">Jack</a></li>
+      <li><a href="#AceHeader">Ace</a></li>
+      <li><a href="#EquipmentCardHeader">Equipment</a></li>
+      <li><a href="#RecruitedCardHeader">Recruited</a></li>
+
+  </ul>
+</li>
+<li><a href="#UnitTypesHeader"><u>Unit Types</u></a>
+
+<ul>
+      <li><a href="#QuartermasterHeader">King</a></li>
+      <li><a href="#KnightHeader">Queen</a></li>
+      <li><a href="#PeasantHeader">Jack</a></li>
+      <li><a href="#AceHeader">Ace</a></li>
+      <li><a href="#EquipmentCardHeader">Equipment</a></li>
+      <li><a href="#RecruitedCardHeader">Recruited</a></li>
+
 </ul>
+</li>
 
 ---
 
@@ -158,12 +190,12 @@
 
 <h1 align='center' id="PlayFieldHeader"> <strong>-<u>Play Field</u>-</strong></h1>
 
-<h2><u>Forge</u> : </h2>
+<h2 id="ForgeSlotHeader"><u>Forge</u> : </h2>
 <p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
 
 ---
 
-<h2><u>Graveyard</u> : </h2>
+<h2 id="GraveyardSlotHeader"><u>Graveyard</u> : </h2>
 <p> <li align='left'>The Graveyard is a community shared discard pile.  The Graveyard <br /> serves a dual purpose. It is also 1 of 3 places you can choose to draw from <br /> during the Draw Phase of your turn. The Graveyard is always stacked face up and <br /> only the top card is accessible at any time.
 
 ---
@@ -172,7 +204,7 @@
 
 ---
 
-<h2><u>Salvage Yard</u> : </h2>
+<h2 id="SalvageYardSlotHeader"><u>Salvage Yard</u> : </h2>
 <p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are <br /> aditional discard slots which can hold 1 card each. These cards can be retrieved <br /> just like drawing from the Forge or the Graveyard. However, your Salvage Cards <br /> are only accessible to you. 
 
 ---
