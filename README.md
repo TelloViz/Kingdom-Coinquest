@@ -30,9 +30,9 @@
 <li><a href="#SetupHeader"><u>Set-up</u></a></li>
 <li><a href="#YourTurnHeader"><u>Your Turn</u></a>
   <ul>
-    <li>Draw Phase</li>
-    <li>Play Phase</li>
-    <li>Discard Phase</li>
+    <li><a href="#DrawPhaseHeader">Draw Phase</a></li>
+    <li><a href="#PlayPhaseHeader">Play Phase</a></li>
+    <li><a href="#DiscardPhaseHeader">Discard Phase</a></li>
   </ul>
 </li>
 <li><a href="#PlayFieldHeader"><u>Play Field</u></a></li>
@@ -106,13 +106,13 @@
 ---
 
 <ol>
-<li> Draw Phase</li>
+<li id="DrawPhaseHeader"> Draw Phase</li>
     <ul><li> Draw cards in any combination from the Forge, Graveyard or Salvage yard, until you have 3 cards in your hand.</li></ul>
 
-<li> Play Phase</li> 
+<li id="PlayPhaseHeader"> Play Phase</li> 
      <ul><li> Make 1 Play Move. <i>(see Play Move List below)</i> </li></ul>
 
-<li> Discard Phase</li>
+<li id="DiscardPhaseHeader"> Discard Phase</li>
       <ul><li> Place 1 card from your hand to either your Salvage Yard or the top of the Graveyard.</li></ul>
 
 </ul>
@@ -124,8 +124,8 @@
  <ul>
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
 <li> Moving Prepared Equipment from the to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
-<li> Placing a your suit's Queen next to the King.</li>
-<li> Placing a <a href="#RecruitedCardHeader">Recruited</a> Queen next to the King.</li>
+<li> Placing your suit's Queen next to the King.</li>
+<li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
 <li> Using an Ace to resurrect a card from the graveyard.</li>
 </ul>
 
@@ -138,6 +138,8 @@
 <h1 align='center' id="PlayFieldHeader"> <strong><u>Play Field</u></strong></h1>
 <h2><u>Forge</u> : </h2>
 <p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
+
+---
 
 <h2><u>Graveyard</u> : </h2>
 <p> <li align='left'>The Graveyard is a community shared discard pile.  The Graveyard <br /> serves a dual purpose. It is also 1 of 3 places you can choose to draw from <br /> during the Draw Phase of your turn. The Graveyard is always stacked face up and <br /> only the top card is accessible at any time.
