@@ -66,16 +66,7 @@
 
   </ul>
 </li>
-<li><a href="#UnitTypesHeader"><u>Unit Types</u></a>
 
-<ul>
-      <li><a href="#QuartermasterHeader">Quartermaster</a>
-        <ul><li><a href="#PreparationCostsHeader">Preparation Costs</li></ul>
-      </li>
-      <li><a href="#KnightHeader">Knight</a></li>
-      <li><a href="#PeasantHeader">Peasant</a></li>
-
-</ul>
 </li>
 
 ---
