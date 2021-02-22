@@ -116,6 +116,7 @@
       <ul><li> Place 1 card from your hand to either your Salvage Yard or the top of the Graveyard.</li></ul>
 
 </ul>
+</ol>
 
 ---
 
