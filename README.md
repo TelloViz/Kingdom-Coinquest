@@ -105,14 +105,17 @@
 
 ---
 
-1. Draw Phase
-     * Draw cards in any combination from the __Forge__, __Graveyard__ or __Salvage__ __yard__, until you have __3 cards__ in your hand.
+<ol>
+<li> Draw Phase</li>
+    <ul><li> Draw cards in any combination from the Forge, Graveyard or Salvage yard, until you have 3 cards in your hand.</li></ul>
 
-2) Play Phase 
-     * Make 1 __play move__. (_see Play Move List below_)
+<li> Play Phase</li> 
+     <ul><li> Make 1 Play Move. <i>(see Play Move List below)</i> </li></ul>
 
-3) Discard Phase
-      * Place __1 card__ from your hand to either your __salvage yard__ or the top of the __graveyard__.
+<li> Discard Phase</li>
+      <ul><li> Place 1 card from your hand to either your Salvage Yard or the top of the Graveyard.</li></ul>
+
+</ul>
 
 ---
 
@@ -246,29 +249,37 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 <h1 align='center' id="UnitTypeHeader"> <strong><u>Unit Types</strong></u> </h1>
 
-<br />
-
-
----
-
-!["CardSeparator"](CardSeparator.png)
-
----
-
 <h2 align='center' id="QuartermasterHeader"> <strong><u>Quartermaster</strong></u> </h2>
 
-<p align='center'>The preparer and provider of weapons and armor for your Knights and Peasants. <br /> Each resource needs to be prepared by the quartermaster in order to be used. 
+<p align='center'>The preparer and provider of weapons and armor for your Knights and Peasants. <br /> Each resource needs to be prepared by the Quartermaster in order to be used. <br /> An <a href="#EquipmentCardHeader"> Equipment Card </a> of your kingdom's Suit of Arms can be played on your Quartermaster. <br /> Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns.
+
+
+---
+
+<h3 id="PreparationCostsHeader"><strong><u>Preparation Costs</u> <i>(based on numeric card value)</i></strong></h3>
+<li> 2-4 	= 1 turn preparation </li>
+<li> 5-7 	= 2 turns preparation </li>
+<li> 8-10 	= 3 turns preparation </li>
+
+---
+
+__Tip__: Place the Equipment Card being prepared by your Quartermaster sideways as shown in the diagram. Then immediately place enough counters on top of the card to represent how many turns of preparation are remaining.
+
+__Tip__: Removing 1 counter from your Quartermaster should be the first thing you do each turn.
+
+---
 
 </p>
 
 ---
 
-<h3 id="PreparationCostsHeader"><u>Preparation Costs</u></h3>
-* 2-4 	= 1 turn preparation
-* 5-7 	= 2 turns preparation
-* 8-10 	= 3 turns preparation
+<h2 align='center' id="KnightHeader"> <strong><u>Knight</strong></u> </h2>
 
----
+<p align='center'>Defender of the King. Play a piece of equipment on your Knight in order to provide defense for your King. When an opponent attacks, your Knight is required to defend the King. 
+
+</p>
+
+
 
 !["CardSeparator"](CardSeparator.png)
 
