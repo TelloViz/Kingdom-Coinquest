@@ -233,7 +233,22 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>1 card may be played here at a time. A card played here enters preparation. Equipment cards must be prepared by the Quartermaster in order to then be equipped to your Knight or Peasant in a future Play Phase. The only time a card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant.  </p>
+<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and Peasants. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment Card </a> played here enters preparation.  The only time an Equipment card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the Knight or Peasant.  
+
+<p align='center'> <br />  <br /> Depending on the value of the Equipment Card, the preparation cost varies. The cost of preparation is paid in turns. The only way to remove an Equipment Card in process is to either wait until its done being prepared, or discard it directly to the Graveyard on your Discard Phase.</p>
+
+---
+
+<h3 id="PreparationCostsHeader"><strong><u>Preparation Costs</u> <i>(based on numeric card value)</i></strong></h3>
+<li> 2-4 	= 1 turn preparation </li>
+<li> 5-7 	= 2 turns preparation </li>
+<li> 8-10 	= 3 turns preparation </li>
+
+---
+
+__Tip__: _Place the Equipment Card being prepared by your Quartermaster sideways as shown in the diagram. Then immediately place enough counters on top of the card to represent how many turns of preparation are remaining._
+
+__Tip__: _Removing 1 counter from your Quartermaster should be the first thing you do each turn._
 
 ---
 
