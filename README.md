@@ -192,7 +192,21 @@
 ---
 
 <h2 id="PeasantSlotHeader"><u>Peasant Slot</u> : </h2>
-<p> <li align='left'>Equipment cards played here act as Weaponry. Weaponry is used to attack rival kingdoms. An Equipped Peasant can use their weapon only once. After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard. <strong>Note: You don't attack the rival King, only the rival Kingdom.</strong> The opposing players response is dependent on what they have available for defenses. An opposing player can block some or all of your Peasants attack with his/her Knight or Queen if avaiable. <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+<p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. Weaponry is used to attack rival kingdoms. An Equipped <a href="#PeasantHeader">Peasant</a> can use their weapon only <u>once</u>. After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard.  The opposing players response is dependent on what they have available for defenses. An opposing player can block some or all of your Peasants attack with his/her Knight or Queen if avaiable. <br /> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+
+---
+
+<h3><strong>Note: You don't attack the rival King, only the rival Kingdom.</strong></h3>
+
+---
+
+<h2 id="QueenSlotHeader"><u>Queen Slot</u> : </h2>
+<p> <li align='left'>Your <a href="#QueenHeader">Queen</a> is the last line of defense for your King. A Queen played in this slot, will absorb all damage done to your King one time. A Kingdom with no Knight <strong>MUST</strong> be defended by your Queen. A Queen that has seen battle must then be placed at the very bottom of the Graveyard.</p>
+
+---
+
+<h2 id="KingSlotHeader"><u>King Slot</u> : </h2>
+<p> <li align='left'>Simply the place where your <a href="#KingHeader">King</a> sits.</p>
 
 ---
 
