@@ -90,12 +90,12 @@
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
 
 <h3 align='center' id="GoalHeader"><strong><u>The Goal</u>:</strong></h3>
-<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, Queen Cards, Jack Cards or Ace Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as Recruiting. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
+<p align='center'> The goal of Kingdom Coinquest is to defeat your rival kingdoms. Players will draw until they have 3 cards in hand each turn. Choose strategically the source from where you draw your cards. You have 3 options, The <a href="#ForgeSlotHeader">Forge</a> (deck), The <a href="#GraveyardSlotHeader">Graveyard</a> (community discard) or your <a href="#SalvageYardSlotHeader">Salvage Yard</a> (your set of 3 personal discard slots). The cards in hand could be <a href="#EquipmentCardHeader">Equipment</a> Cards, <a href="#QueenHeader">Queen</a> Cards, <a href="#JackHeader">Jack</a> Cards or <a href="#AceHeader">Ace</a> Cards. Each card type is outlined in it's own section. You can only play a card of your Suit of Arms unless you have 2 cards of a Rival Kingdom in your hand. 2 cards of a Rival Kingdom can be played as 1 card of your own Suit. This is known as <a href="#RecruitedCardHeader">Recruiting</a>. After you make your play, you must discard a card from your hand. This discard can be placed in 1 of 2 places. If you discard to the Graveyard, other players will have a chance at accessing the card in the future. If you discard to 1 of the 3 personal Salvage Yard slots, only you can access these cards in the future. However, space is limited in the Salvage Yard. Only 3 cards total can be stored here.</p>
 
 ---
 
 <h3 align='center' id="VictoryHeader"><strong><u>Victory</u>:</strong></h3>
-<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your Knights and Peasants. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
+<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader">Peasants</a>. Once prepared an Equipment card can then be equipped to either your Knight or your Peasant, during your Play Phase. Use your Peasants to attack a rival kingdom. Use your Knight to defend your King. Once a King has depleted his 20 health points, he is no longer in play. Be the last King standing and you are victorious!</p>
 
 ---
 
@@ -122,6 +122,8 @@
   3) Shuffle the remaining cards that are the non-kings/non-joker.
      1) This is the <b>forge</b>. It is essentially the deck that players will draw from.
      2) Place the forge in the location indicated in the figure above.
+  4) Each player place 20 counters on their King.
+     1) This is to keep track of his Health Points remaining.
 
 ---
 
