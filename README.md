@@ -48,7 +48,7 @@
 <br />
 
 
-<h2 id="RequirementsHeader"> <u>Requirements</u> </h2>
+<h1 id="RequirementsHeader" align='center'> <strong><u>Requirements</u></strong> </h1>
 
 
 
@@ -95,7 +95,7 @@
 
 ---
 
-<h2 id="YourTurnHeader"> <u>Your Turn</u> </h2>
+<h1 align='center' id="YourTurnHeader"> <strong><u>Your Turn</u></strong> </h2>
 
 <h3><i> It is <u>important</u> to take your turn in the following order:</i></h2>
 
@@ -125,19 +125,19 @@
 
 <h1 align='center' id="PlayFieldHeader"> <strong><u>Play Field</u></strong></h1>
 <h2><u>Forge</u> : </h2>
-<p> <li align='left'>The Forge is your primary source for stocking your hand each turn. <br /> The Forge deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
+<p> <li align='left'>The Forge is your primary source for stocking your hand each turn. The Forge <br /> deck is 1 of the 3 places you can draw from during the first phase of your turn.</p>
 
 <h2><u>Graveyard</u> : </h2>
-<p> <li align='left'>The Graveyard is another 1 of the 3 sources you can draw from during your turn. <br /> The Graveyard is a community shared discard pile. The discard serves a dual purpose. <br /> It is also 1 of 2 places you can choose to discard to in the final phase of your turn. <br /> The Graveyard is always stacked face up and only the top card is accessible at any time. 
+<p> <li align='left'>The Graveyard is a community shared discard pile.  The Graveyard <br /> serves a dual purpose. It is also 1 of 3 places you can choose to draw from <br /> during the Draw Phase of your turn. The Graveyard is always stacked face up and <br /> only the top card is accessible at any time.
 
 ---
 
-(<b>Be careful! Anything you discard to this stack, is then retrievable during the draw phase of a rival kingdom's turn.</b>)</p>
+(<b>Be careful! Anything you discard to the Graveyard, is then retrievable during the draw phase of a rival kingdom's turn!</b>)</p>
 
 ---
 
 <h2><u>Salvage Yard</u> : </h2>
-<p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are aditional discard slots which can hold 1 card each. These cards can be retrieved just like drawing from the Forge or the Graveyard. However, these cards are only accessible to yourself. 
+<p> <li align='left'>There are 3 spots in your area of the play field labeled "Salvage". These are <br /> aditional discard slots which can hold 1 card each. These cards can be retrieved <br /> just like drawing from the Forge or the Graveyard. However, your Salvage Cards <br /> are only accessible to you. 
 
 ---
 
@@ -222,6 +222,7 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 <p align='center'>
 These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost.
 </p>
+
 ---
 
 <h2 id="RecruitedCardHeader" align='center'><b><u>Recruited Cards</u></b></h2>
@@ -235,7 +236,7 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 ---
 
 
-<h2 align='center' id="UnitTypeHeader"> <strong><u>Unit Types</strong></u> </h2>
+<h1 align='center' id="UnitTypeHeader"> <strong><u>Unit Types</strong></u> </h1>
 
 <br />
 
