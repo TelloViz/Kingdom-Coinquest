@@ -226,7 +226,7 @@
 
 ---
 
-(<b>Note: Only 1 card per Salvage spot. 3 total salvage cards per player at any time. </b>)
+<b>Note:</b> <i>Only 1 card per Salvage spot. 3 total salvage cards per player at any time.</i>
 
 ---
 
@@ -245,7 +245,7 @@
 
 ---
 
-<h3><strong>Note: You don't attack the rival King, only the rival Kingdom.</strong></h3>
+<b>Note:</b> <i>You don't attack the rival King, only the rival Kingdom.</i>
 
 ---
 
@@ -286,7 +286,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="HeartQueen.png">
 </p>
 
-<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated queen is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /><i><b>Note:</b> Only 1 Queen can be active per player at a time.</i>
+<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The queen will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated queen is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
 </p>
 
 <br />
@@ -302,13 +302,13 @@ These kings are not used in game, they are set aside outside of the play area. <
 
 <p align='center'> 
 The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the Quartermaster.<br /><br/>
-<b>Note:</b> Only 1 Jack can be in play per player at any time.)
-<br /><b>Note:</b> A Jack can only be used on Equipment Cards. <br /> <i>(He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.)</i>
+<b>Note:</b> <i>Only 1 Jack can be in play per player at any time.</i>
+<br /><b>Note:</b> <i>A Jack can only be used on Equipment Cards.</i> <br /> <b>(He may not be used to Recruit a Queen or an Ace. These cards may be Recruited, but not with a Jack.)</b>
 </p>
 
 <br />
 <br />
-
+<br />
 
 ---
 
@@ -319,7 +319,7 @@ The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild car
 </p>
 
 <p align='center'>
-The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <b><i>Note: Ressurected cards do not need to be prepared by the quartermaster</i></b>
+The ace of your suit can be used to resurrect the top card from the graveyard and place it on your unit of choice for immediate use. The act of resurrection and the subsequent immediate play of the ressurected card, constitutes 1 <b><i>play move</i></b>. Aces used to resurrect, must be placed at the bottom of the discard pile. Do not shuffle the discard pile when placing an Ace at the bottom of the pile. <br /> <b>Note:</b> <i>Ressurected cards do not need to be prepared by the quartermaster</i>
 </p>
 
 <br />
@@ -331,7 +331,7 @@ The ace of your suit can be used to resurrect the top card from the graveyard an
 <p align='center'>
 These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your Peasant or Knight. The value of the card influences its effect and preparation cost. Equip an Equipment Card to your Peasant to allow him to attack on a future play move. The Peasant can attack for the value indicated on the Equipment Card. Likewise, equip your Equipment Card to a Knight, to add that cards value in defense to your Knight. Use the Knight do defend your King. More information can be found in the section on "Attack Play Move"
 
-<br/><b>Note:</b> To unequip an Equipment Card, simply replace it with a different prepared Equipment Card. The equipment being replaced is then placed on the top of the Graveyard. This <strong>does not</strong> count as your <a href="#DiscardPhaseHeader">Discard Phase.</a></h3>
+<br/><b>Note:</b> <i>To unequip an Equipment Card, simply replace it with a different prepared Equipment Card. The equipment being replaced is then placed on the top of the Graveyard. This <strong>does not</strong> count as your <a href="#DiscardPhaseHeader">Discard Phase.</a></i>
 </p>
 
 ---
@@ -363,9 +363,9 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 ---
 
-__Tip__: Place the Equipment Card being prepared by your Quartermaster sideways as shown in the diagram. Then immediately place enough counters on top of the card to represent how many turns of preparation are remaining.
+__Tip__: _Place the Equipment Card being prepared by your Quartermaster sideways as shown in the diagram. Then immediately place enough counters on top of the card to represent how many turns of preparation are remaining._
 
-__Tip__: Removing 1 counter from your Quartermaster should be the first thing you do each turn.
+__Tip__: _Removing 1 counter from your Quartermaster should be the first thing you do each turn._
 
 </p>
 
