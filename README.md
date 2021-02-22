@@ -244,14 +244,14 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 <h2 id="KnightSlotHeader"><u>Knight Slot</u> : </h2>
 
-<li>Defender of the King. <li align='left'>Play a piece of prepared <a href="#EquipmentCardHeader">Equipment</a> on your Knight in order to provide defense for your King. <li align='left'>When an opponent attacks, your Equipped Knight is required to defend the King. <li align='left'>Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#BattleHeader">Battle for more information.</a></li>
+<li>Defender of the King. <li align='left'>Play a piece of prepared <a href="#EquipmentCardHeader">Equipment</a> on your Knight in order to provide defense for your King. <li align='left'>When an opponent attacks, your Equipped Knight is required to defend the King. <li align='left'>Once a Knight has seen battle, the equipment card must be placed on the top of the Graveyard <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#AttackDefendHeader">Battle for more information.</a></li>
 
 ---
 
 <h2 id="PeasantSlotHeader"><u>Peasant Slot</u> : </h2>
 
 <p><li align='left'>Battle fodder for your kingdom. <li align='left'>Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom. 
-<p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. <li align='left'>An Equipped <a href="#PeasantHeader">Peasant</a> can use their weapon only <u>once</u>. <li align='left'>After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#BattleHeader">Battle for more information.</a></p>
+<p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. <li align='left'>An Equipped <a href="#PeasantHeader">Peasant</a> can use their weapon only <u>once</u>. <li align='left'>After a Peasant has seen battle, their weapon breaks and is placed on the top of the Graveyard. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#AttackDefendHeader">Battle for more information.</a></p>
 
 ---
 
