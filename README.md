@@ -160,7 +160,7 @@
 
 <ol>
 <li id="DrawPhaseHeader"> Draw Phase</li>
-    <ul><li> Draw cards in any combination from the <a href="ForgeHeader">Forge</a>, <a href="GraveyardHeader">Graveyard</a> or <a href="SalvageYardHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li>
+    <ul><li> Draw cards in any combination from the <a href="#ForgeSlotHeader">Forge</a>, <a href="#GraveyardSlotHeader">Graveyard</a> or <a href="#SalvageYardSlotHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li>
     <li><u>Immediately</u> remove 1 counter from your Quartermaster if preparing Equipment.</li></ul>
 
 <li id="PlayPhaseHeader"> Play Phase</li> 
