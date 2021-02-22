@@ -69,12 +69,9 @@
 <li><a href="#UnitTypesHeader"><u>Unit Types</u></a>
 
 <ul>
-      <li><a href="#QuartermasterHeader">King</a></li>
-      <li><a href="#KnightHeader">Queen</a></li>
-      <li><a href="#PeasantHeader">Jack</a></li>
-      <li><a href="#AceHeader">Ace</a></li>
-      <li><a href="#EquipmentCardHeader">Equipment</a></li>
-      <li><a href="#RecruitedCardHeader">Recruited</a></li>
+      <li><a href="#QuartermasterHeader">Quartermaster</a></li>
+      <li><a href="#KnightHeader">Knight</a></li>
+      <li><a href="#PeasantHeader">Peasant</a></li>
 
 </ul>
 </li>
@@ -351,8 +348,6 @@ __Tip__: Place the Equipment Card being prepared by your Quartermaster sideways 
 
 __Tip__: Removing 1 counter from your Quartermaster should be the first thing you do each turn.
 
----
-
 </p>
 
 ---
@@ -362,6 +357,16 @@ __Tip__: Removing 1 counter from your Quartermaster should be the first thing yo
 <p align='center'>Defender of the King. Play a piece of equipment on your Knight in order to provide defense for your King. When an opponent attacks, your Knight is required to defend the King. 
 
 </p>
+
+---
+
+<h2 align='center' id="PeasantHeader"> <strong><u>Peasant</strong></u> </h2>
+
+<p align='center'>Battle fodder for your kingdom. Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom.</p>
+
+---
+
+<p> <b>(Note: Equipping counts as a play move, as does Attacking. Therefore, you may not Equip and Attack on the same turn!)</b></p>
 
 ---
 
