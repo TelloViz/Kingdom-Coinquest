@@ -113,17 +113,18 @@
 ### This setup will be duplicated by each player. __(Note: Forge and Graveyard are community piles!)__
 
 ---
-  1) Set aside Joker Cards
-  2) Separate the 4 Kings from the deck.
-     1) Shuffle the Kings and place them face down.
-     2) Each player in turn then draws their king for the game.
-     3) Place your King as shown in the figure above.
-     4) Set the remaining Kings aside for the remainder of the game.
-  3) Shuffle the remaining cards that are the non-kings/non-joker.
-     1) This is the <b>forge</b>. It is essentially the deck that players will draw from.
-     2) Place the forge in the location indicated in the figure above.
-  4) Each player place 20 counters on their King.
-     1) This is to keep track of his Health Points remaining.
+<ol>
+  <li> Set aside Joker Cards</li>
+  <li> Separate the 4 Kings from the deck.
+     <ul><li>Shuffle the Kings and place them face down.</li>
+     <li>Each player in turn then draws their king for the game.</li>
+     <li>Place your King as shown in the figure above.</li>
+     <li>Set the remaining Kings aside for the remainder of the game. </li></ul></li>
+  <li>Shuffle the remaining cards that are the non-kings/non-joker.
+     <ul><li>This is the <b>forge</b>. It is essentially the deck that players will draw from.</li>
+     <li>Place the forge in the location indicated in the figure above.</li></ul>
+  <li>Each player place 20 counters on their King.</li>
+     <ul><li>This is to keep track of his Health Points remaining.</li></ul>
 
 ---
 
