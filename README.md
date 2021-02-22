@@ -107,7 +107,7 @@
 
 <ol>
 <li id="DrawPhaseHeader"> Draw Phase</li>
-    <ul><li> Draw cards in any combination from the Forge, Graveyard or Salvage yard, until you have 3 cards in your hand.</li></ul>
+    <ul><li> Draw cards in any combination from the <a href="ForgeHeader">Forge</a>, <a href="GraveyardHeader">Graveyard</a> or <a href="SalvageYardHeader">Salvage Yard</a>, until you have 3 cards in your hand.</li></ul>
 
 <li id="PlayPhaseHeader"> Play Phase</li> 
      <ul><li> Make 1 Play Move. <i>(see Play Move List below)</i> </li></ul>
@@ -122,9 +122,10 @@
 
  <h3 id="PlayMoveHeader">A <b><i>Play Move</i></b> is any of the following: </h3>
  <ul>
- <li><a href="AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
+ 
 <li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
-<li> Moving Prepared Equipment from the to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
+<li> Moving Prepared Equipment from the Quartermaster to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
+<li><a href="AttackHeader">Attacking</a> a rival Kingdom with your Equipped Peasant.</li>
 <li> Placing your suit's Queen next to the King.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
 <li> Using an Ace to Resurrect a card from the graveyard.</li>
