@@ -95,7 +95,7 @@
 ---
 
 <h3 align='center' id="VictoryHeader"><strong><u>Victory</u>:</strong></h3>
-<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader"><a href="#PeasantSlotHeader">Peasants</a></a>. Once prepared, an <a href="#EquipmentCardHeader">Equipment</a> card can then be equipped to either your <a href="#KnightSlotHeader">Knight</a> or your <a href="#PeasantSlotHeader">Peasant</a>, during your <a href="#PlayPhaseHeader">Play Phase</a>. Use your <a href="#PeasantSlotHeader">Peasants</a> to attack a rival kingdom. Use your <a href="#KnightSlotHeader">Knight</a> to defend your <a href="#KingHeader">King</a>. Once a <a href="#KingHeader">King</a> has depleted his 20 health points, he is no longer in play. Be the last <a href="#KingHeader">King</a> standing and you are victorious!</p>
+<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader"><a href="#PeasantSlotHeader">Peasant</a></a>. Once prepared, an <a href="#EquipmentCardHeader">Equipment</a> card can then be equipped to either your <a href="#KnightSlotHeader">Knight</a> or your <a href="#PeasantSlotHeader">Peasant</a>, during your <a href="#PlayPhaseHeader">Play Phase</a>. Use your <a href="#PeasantSlotHeader">Peasants</a> to attack a rival kingdom. Use your <a href="#KnightSlotHeader">Knight</a> to defend your <a href="#KingHeader">King</a>. Once a <a href="#KingHeader">King</a> has depleted his 20 health points, he is no longer in play. Be the last <a href="#KingHeader">King</a> standing and you are victorious!</p>
 
 ---
 
@@ -176,7 +176,7 @@
 <li><a href="#AttackHeader">Attacking</a> a rival Kingdom with your Equipped <a href="#PeasantSlotHeader">Peasant</a>.</li>
 <li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the <a href="#KingHeader">King</a>.</li>
 <li> Playing a <a href="#RecruitedCardHeader">Recruited Card</a></li>
-<li> Using an <a href="#AceHeader">Ace</a> to <a href="#ResurrectedCardHeader">Resurrect</a> a card from the <a href="#GraveyardSlotHeader">Graveyard</a>.</li>
+<li> Using an <a href="#AceHeader">Ace</a> to resurrect a card from the <a href="#GraveyardSlotHeader">Graveyard</a>.</li>
 </ul>
 
 ---
@@ -190,7 +190,7 @@
 </li></ul>
 
 <h3 id="DefendHeader" align='left'><u>Defend</u></h3>
-<li>A Defending <a href="#KnightSlotHeader">Knight</a> absorbs <a href="#PeasantSlotHeader">Peasant</a> attack damage only up to the value listed on the Knights <a href="#EquipmentCardHeader">Equipment</a>.<ul><li><a href="#PeasantSlotHeader">Peasant</a> attack damage beyond the Knights defense value is applied as Damage to the <a href="#KingHeader">Kings</a> Health Points. <li>In the event that a <a href="#KnightSlotHeader">Knight</a> falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her <a href="#KingHeader">King</a>.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending <a href="#KingHeader">King</a>'s health points.</li></li></ul></li>
+<li>A Defending <a href="#KnightSlotHeader"><a href="#KnightSlotHeader">Knight</a></a> absorbs <a href="#PeasantSlotHeader">Peasant</a> attack damage only up to the value listed on the <a href="#KnightSlotHeader">Knight</a>'s <a href="#EquipmentCardHeader">Equipment</a>.<ul><li><a href="#PeasantSlotHeader">Peasant</a> attack damage beyond the <a href="#KnightSlotHeader">Knight</a>'s defense value is applied as Damage to the <a href="#KingHeader">Kings</a> Health Points. <li>In the event that a <a href="#KnightSlotHeader">Knight</a> falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her <a href="#KingHeader">King</a>.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending <a href="#KingHeader">King</a>'s health points.</li></li></ul></li>
 <li> A Defending <a href="#KnightSlotHeader">Knight</a> may only use an <a href="#EquipmentCardHeader">Equipment</a> Card once. 
     <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the <a href="#GraveyardSlotHeader">Graveyard</a> face-up</li></ul></li>
 </ul>
@@ -227,7 +227,7 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>The preparer and provider of weapons and armor for your Knights and <a href="#PeasantSlotHeader">Peasants</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
+<p> <li align='left'>The preparer and provider of weapons and armor for your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader">Peasant</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
 <b>Note:</b> <i>The only way to remove an <a href="#EquipmentCardHeader">Equipment</a> Card in process is to either wait until its done being prepared, or discard it directly to the <a href="#GraveyardSlotHeader">Graveyard</a> on your <a href="#DiscardPhaseHeader">Discard Phase</a>.</i></p>
 
 ---
