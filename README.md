@@ -66,6 +66,7 @@
 
   </ul>
 </li>
+<li><a href="#QuestionsCommentsHeader"><u>Questions, Comments Feedback</u></a></li>
 
 </li>
 
@@ -361,3 +362,25 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 !["CardSeparator"](images/CardSeparator.png)
 
+---
+
+<h1 align='center' id="QuestionsCommentsHeader">Questions, Comments or Feedback?</h1>
+<h2 align='center'>I'm interested in hearing what you've got to say!</h2>
+
+---
+<ul>
+  <li>Inconsistencies in mechanics</li>
+  <li>Trouble interpreting the rules</li>
+  <li>Suggestions on adjustments</li>
+  <li>Readme Suggestions</li>
+</ul>
+
+---
+
+<h2 align='center'>Contact me at: <br /> lollisjosh@csu.fullerton.edu <br /> www.github.com/Tello- </h2>
+
+---
+
+!["CardSeparator"](images/CardSeparator.png)
+
+---
