@@ -1,4 +1,4 @@
-[![Header for Kingdom Coinquest](Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
+[![Header for Kingdom Coinquest](images/Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
 
 <h1 align='center'> 
   <span> &#9829 </span> 
@@ -12,7 +12,7 @@
  
  ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
 ---
 <h1 id="SynopsisHeader" align='center'> <strong>-<u>Synopsis</u>-</strong></h1>
@@ -99,14 +99,14 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
 ---
 
 <h1 align='center' id="SetupHeader"> <strong>-<u>Set-Up</u>-</strong> </h2>
 
 
-!["GameSetup"](GameSetup.png)
+!["GameSetup"](images/GameSetup.png)
 
 ---
 
@@ -142,7 +142,7 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](/images/CardSeparator.png)
 
 ---
 
@@ -197,7 +197,7 @@
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](/images/CardSeparator.png)
 
 ---
 
@@ -276,7 +276,7 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 ---
 
-!["Ground CardSeparator"](CardSeparator.png)
+!["Ground CardSeparator"](images/CardSeparator.png)
 
 <h1 align='center' id="CardTypesHeader"> <strong>-<u>Card Types</strong></u>-</h1>
 
@@ -284,7 +284,7 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 <h2 id="KingHeader" align='center'><b><u>King</u></b></h2>
  <p>
-  <img width="80" align='left' src="HeartKing.png">
+  <img width="80" align='left' src="images/HeartKing.png">
 </p>
 <p align='center'>The leader of your Kingdom. He must be protected at all cost. <br /> The King starts with 20 health points. A king is defeated when he has 0 or less health. The final King standing is the victor.
 </p>
@@ -300,7 +300,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 <h2 id="QueenHeader" align='center'><b><u>Queen</u></b></h2>
 
 <p>
-  <img width="80" align='left' src="HeartQueen.png">
+  <img width="80" align='left' src="images/HeartQueen.png">
 </p>
 
 <p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The <a href="#QueenHeader">Queen</a> will fully absorb 1 incoming attack, in <b>all</b> cases where a knight is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated <a href="#QueenHeader">Queen</a> is then discarded <br /> to the <b>bottom</b> of the graveyard. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
@@ -314,7 +314,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 <h2 id="JackHeader" align='center'><b><u>Jack</u></b></h2>
 
 <p>
-  <img width="80" align='left' src="Jacks.png">
+  <img width="80" align='left' src="images/Jacks.png">
 </p>
 
 <p align='center'> 
@@ -332,7 +332,7 @@ The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild car
 <h2 id="AceHeader" align='center'><strong><u>Ace</u></strong></h2>
 
 <p>
-  <img width="80" align='left' src="AceHeart.png">
+  <img width="80" align='left' src="images/AceHeart.png">
 </p>
 
 <p align='center'>
@@ -359,5 +359,5 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 ---
 
-!["CardSeparator"](CardSeparator.png)
+!["CardSeparator"](images/CardSeparator.png)
 
