@@ -228,7 +228,7 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>The preparer and provider of weapons and armor for your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader">Peasant</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an Ace Card. An Ace can Resurrect the top card of the Graveyard directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
+<p> <li align='left'>The preparer and provider of weapons and armor for your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader">Peasant</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an <a href="#AceHeader">Ace</a> Card. An <a href="#AceHeader">Ace</a> can Resurrect the top card of the Graveyard directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
 <b>Note:</b> <i>The only way to remove an <a href="#EquipmentCardHeader">Equipment</a> Card in process is to either wait until its done being prepared, or discard it directly to the <a href="#GraveyardSlotHeader">Graveyard</a> on your <a href="#DiscardPhaseHeader">Discard Phase</a>.</i></p>
 
 ---
@@ -321,7 +321,7 @@ These kings are not used in game, they are set aside outside of the play area. <
 <p align='center'> 
 The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the <a href="#QuartermasterSlotHeader">Quartermaster</a>.<br /><br/>
 <b>Note:</b> <i>Only 1 Jack can be in play per player at any time.</i>
-<br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an Ace. These cards may be Recruited, but not with a Jack.)</b>
+<br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an <a href="#AceHeader">Ace</a>. These cards may be Recruited, but not with a Jack.)</b>
 </p>
 
 <br />
@@ -356,7 +356,7 @@ These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quar
 
 <h2 id="RecruitedCardHeader" align='center'><b><u>Recruited Cards</u></b></h2>
 
-A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A Jack (wild card) may only be used for Recruiting <a href="#EquipmentCardHeader">Equipment</a> (number valued cards). A Jack cannot be used in Recruiting a <a href="#QueenHeader">Queen</a> or Ace.
+A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A Jack (wild card) may only be used for Recruiting <a href="#EquipmentCardHeader">Equipment</a> (number valued cards). A Jack cannot be used in Recruiting a <a href="#QueenHeader">Queen</a> or <a href="#AceHeader">Ace</a>.
 
 ---
 
