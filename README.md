@@ -356,7 +356,7 @@ These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quar
 
 <h2 id="RecruitedCardHeader" align='center'><b><u>Recruited Cards</u></b></h2>
 
-A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A Jack (wild card) may only be used for Recruiting <a href="#EquipmentCardHeader">Equipment</a> (number valued cards). A Jack cannot be used in Recruiting a <a href="#QueenHeader">Queen</a> or <a href="#AceHeader">Ace</a>.
+A pair of cards not of your kingdom's suit of arms. They count as individual cards until played together. Playing the 2 cards together is known as <b>recruiting.</b> A recruited card can be played as a card of your suit. Any card may become a recruited card when paired with another card of it's same type regardless of suit. However, A <a href="#JackHeader">Jack</a> (wild card) may only be used for Recruiting <a href="#EquipmentCardHeader">Equipment</a> (number valued cards). A <a href="#JackHeader">Jack</a> cannot be used in Recruiting a <a href="#QueenHeader">Queen</a> or <a href="#AceHeader">Ace</a>.
 
 ---
 
