@@ -172,7 +172,7 @@
  <h3 id="PlayMoveHeader">A <b><i><u>Play Move</u></i></b> is any of the following: </h3>
  <ul>
  
-<li> Placing an <a href="#EquipmentCardHeader">Equipment Card</a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
+<li> Placing an <a href="#EquipmentCardHeader"><a href="#EquipmentCardHeader">Equipment Card</a></a> on the <a href="#QuartermasterHeader">Quartermaster</a> to be prepared. </li>
 <li> Moving Prepared <a href="#EquipmentCardHeader">Equipment</a> from the <a href="#QuartermasterSlotHeader">Quartermaster</a> to your <a href="#KnightHeader">Knight</a> or <a href="#PeasantHeader">Peasant</a>.</li>
 <li><a href="#AttackHeader">Attacking</a> a rival Kingdom with your Equipped <a href="#PeasantSlotHeader">Peasant</a>.</li>
 <li> Placing your suit's <a href="#QueenHeader">Queen</a> next to the <a href="#KingHeader">King</a>.</li>
@@ -228,7 +228,7 @@
 ---
 
 <h2 id="QuartermasterSlotHeader"><u>Quartermaster Slot</u> : </h2>
-<p> <li align='left'>The preparer and provider of weapons and armor for your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader">Peasant</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an <a href="#AceHeader">Ace</a> Card. An <a href="#AceHeader">Ace</a> can Resurrect the top card of the Graveyard directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
+<p> <li align='left'>The preparer and provider of weapons and armor for your <a href="#KnightSlotHeader">Knight</a> and <a href="#PeasantSlotHeader">Peasant</a>. One card may be played here at a time. An <a href="#EquipmentCardHeader"> Equipment</a> card played here enters preparation.  The only time an <a href="#EquipmentCardHeader">Equipment</a> card will not need to be prepared by your Quartermaster is when you play an <a href="#AceHeader">Ace</a> Card. An <a href="#AceHeader">Ace</a> can Resurrect the top card of the <a href="#GraveyardSlotHeader">Graveyard</a> directly onto the <a href="#KnightSlotHeader">Knight</a> or <a href="#PeasantSlotHeader">Peasant</a>. Depending on the value of the <a href="#EquipmentCardHeader">Equipment</a> Card, the preparation cost varies. The cost of preparation is paid in turns. <br /><br />
 <b>Note:</b> <i>The only way to remove an <a href="#EquipmentCardHeader">Equipment</a> Card in process is to either wait until its done being prepared, or discard it directly to the <a href="#GraveyardSlotHeader">Graveyard</a> on your <a href="#DiscardPhaseHeader">Discard Phase</a>.</i></p>
 
 ---
@@ -254,7 +254,7 @@ __Tip__: _Removing 1 counter from your Quartermaster should be the first thing y
 
 <h2 id="PeasantSlotHeader"><u>Peasant Slot</u> : </h2>
 
-<p><li align='left'>Battle fodder for your kingdom. <li align='left'>Equip a prepared Equipment Card on your Peasant to gain the ability to attack a rival kingdom. 
+<p><li align='left'>Battle fodder for your kingdom. <li align='left'>Equip a prepared <a href="#EquipmentCardHeader">Equipment Card</a> on your Peasant to gain the ability to attack a rival kingdom. 
 <p> <li align='left'><a href="#EquipmentCardHeader">Equipment Cards</a> played here act as Weaponry. <li align='left'>An Equipped Peasant can use their weapon only <u>once</u>. <li align='left'>After a Peasant has seen battle, their weapon breaks and is placed on the top of the <a href="#GraveyardSlotHeader">Graveyard</a>. <ul><li><b>Note:</b> <i>This is not a Discard Move.</i></li></ul> ->See section on <a href="#AttackDefendHeader">Battle for more information.</a></p>
 
 ---
@@ -304,7 +304,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="images/HeartQueen.png">
 </p>
 
-<p align='center'> The <a href="#KingHeader">King</a>'s right hand. She has vowed to protect her people and their way of life. <br /> The <a href="#QueenHeader">Queen</a> will fully absorb 1 incoming attack, in <b>all</b> cases where a <a href="#KnightSlotHeader">Knight</a> is not available to defend the <a href="#KingHeader">King</a>. <br /> The Queen stays in play until defeated. A defeated <a href="#QueenHeader">Queen</a> is then discarded <br /> to the <b>bottom</b> of the <a href="#GraveyardSlotHeader">Graveyard</a>. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
+<p align='center'> The <a href="#KingHeader">King</a>'s right hand. She has vowed to protect her people and their way of life. <br /> The Queen will fully absorb 1 incoming attack, in <b>all</b> cases where a <a href="#KnightSlotHeader">Knight</a> is not available to defend the <a href="#KingHeader">King</a>. <br /> The Queen stays in play until defeated. A defeated Queen is then discarded <br /> to the <b>bottom</b> of the <a href="#GraveyardSlotHeader">Graveyard</a>. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
 </p>
 
 <br />
@@ -319,9 +319,9 @@ These kings are not used in game, they are set aside outside of the play area. <
 </p>
 
 <p align='center'> 
-The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was Recruited by using a Jack still needs to be prepared <br /> by the <a href="#QuartermasterSlotHeader">Quartermaster</a>.<br /><br/>
+The <i>Jack of all trades</i> has no particular allegience. Jacks are a wild card that can be used to <a href="#RecruitedCardHeader">recruit</a> <br/> any <a href="#EquipmentCardHeader">equipment</a> card to your allegience. A card that was <a href="#RecruitedCardHeader">Recruited</a> by using a Jack still needs to be prepared <br /> by the <a href="#QuartermasterSlotHeader">Quartermaster</a>.<br /><br/>
 <b>Note:</b> <i>Only 1 Jack can be in play per player at any time.</i>
-<br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an <a href="#AceHeader">Ace</a>. These cards may be Recruited, but not with a Jack.)</b>
+<br /><b>Note:</b> <i>A Jack can only be used on <a href="#EquipmentCardHeader">Equipment</a> Cards.</i> <br /> <b>(He may not be used to Recruit a <a href="#QueenHeader">Queen</a> or an <a href="#AceHeader">Ace</a>. These cards may be <a href="#RecruitedCardHeader">Recruited</a>, but not with a Jack.)</b>
 </p>
 
 <br />
