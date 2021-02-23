@@ -95,7 +95,7 @@
 ---
 
 <h3 align='center' id="VictoryHeader"><strong><u>Victory</u>:</strong></h3>
-<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader"><a href="#PeasantSlotHeader">Peasants</a></a>. Once prepared, an <a href="#EquipmentCardHeader">Equipment</a> card can then be equipped to either your <a href="#KnightSlotHeader">Knight</a> or your <a href="#PeasantSlotHeader">Peasant</a>, during your <a href="#PlayPhaseHeader">Play Phase</a>. Use your <a href="#PeasantSlotHeader">Peasants</a> to attack a rival kingdom. Use your <a href="#KnightSlotHeader">Knight</a> to defend your <a href="#KingHeader">King</a>. Once a King has depleted his 20 health points, he is no longer in play. Be the last <a href="#KingHeader">King</a> standing and you are victorious!</p>
+<p align='center'>Victory is acomplished by playing <a href="#EquipmentCardHeader">Equipment Cards</a> on your <a href="#QuartermasterSlotHeader">Quartermaster</a> to be prepared for use by your <a href="#KnightSlotHeader">Knights</a> and <a href="#PeasantSlotHeader"><a href="#PeasantSlotHeader">Peasants</a></a>. Once prepared, an <a href="#EquipmentCardHeader">Equipment</a> card can then be equipped to either your <a href="#KnightSlotHeader">Knight</a> or your <a href="#PeasantSlotHeader">Peasant</a>, during your <a href="#PlayPhaseHeader">Play Phase</a>. Use your <a href="#PeasantSlotHeader">Peasants</a> to attack a rival kingdom. Use your <a href="#KnightSlotHeader">Knight</a> to defend your <a href="#KingHeader">King</a>. Once a <a href="#KingHeader">King</a> has depleted his 20 health points, he is no longer in play. Be the last <a href="#KingHeader">King</a> standing and you are victorious!</p>
 
 ---
 
@@ -115,12 +115,12 @@
 ---
 <ol>
   <li> Set aside Joker Cards</li>
-  <li> Separate the 4 Kings from the deck.
-     <ul><li>Shuffle the Kings and place them face down.</li>
-     <li>Each player in turn then draws their king for the game.</li>
+  <li> Separate the 4 <a href="#KingHeader">Kings</a> from the deck.
+     <ul><li>Shuffle the <a href="#KingHeader">Kings</a> and place them face down.</li>
+     <li>Each player in turn then draws their <a href="#KingHeader">King</a> for the game.</li>
      <li>Place your <a href="#KingHeader">King</a> as shown in the figure above.</li>
-     <li>Set the remaining Kings aside for the remainder of the game. </li></ul></li>
-  <li>Shuffle the remaining cards that are the non-kings/non-joker.
+     <li>Set the remaining <a href="#KingHeader">Kings</a> aside for the remainder of the game. </li></ul></li>
+  <li>Shuffle the remaining cards that are the non-<a href="#KingHeader">Kings</a>/non-joker.
      <ul><li>This is the <a href="#ForgeSlotHeader"><b>forge</b></a>. It is essentially the deck that players will draw from.</li>
      <li>Place the <a href="#ForgeSlotHeader">Forge</a> in the location indicated in the figure above.</li></ul>
   <li>Each player place 20 counters on their <a href="#KingHeader">King</a>.</li>
@@ -190,7 +190,7 @@
 </li></ul>
 
 <h3 id="DefendHeader" align='left'><u>Defend</u></h3>
-<li>A Defending <a href="#KnightSlotHeader">Knight</a> absorbs <a href="#PeasantSlotHeader">Peasant</a> attack damage only up to the value listed on the Knights <a href="#EquipmentCardHeader">Equipment</a>.<ul><li><a href="#PeasantSlotHeader">Peasant</a> attack damage beyond the Knights defense value is applied as Damage to the Kings Health Points. <li>In the event that a <a href="#KnightSlotHeader">Knight</a> falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her <a href="#KingHeader">King</a>.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending <a href="#KingHeader">King</a>'s health points.</li></li></ul></li>
+<li>A Defending <a href="#KnightSlotHeader">Knight</a> absorbs <a href="#PeasantSlotHeader">Peasant</a> attack damage only up to the value listed on the Knights <a href="#EquipmentCardHeader">Equipment</a>.<ul><li><a href="#PeasantSlotHeader">Peasant</a> attack damage beyond the Knights defense value is applied as Damage to the <a href="#KingHeader">Kings</a> Health Points. <li>In the event that a <a href="#KnightSlotHeader">Knight</a> falls short in battle, a Queen in play MUST absorb the remaining incoming damage points for her <a href="#KingHeader">King</a>.</li><li>Any damage points remaining that have not been defended or absorbed, will be decremented from the defending <a href="#KingHeader">King</a>'s health points.</li></li></ul></li>
 <li> A Defending <a href="#KnightSlotHeader">Knight</a> may only use an <a href="#EquipmentCardHeader">Equipment</a> Card once. 
     <ul><li>The <a href="#EquipmentCardHeader">Equipment</a> breaks and is placed on the top of the <a href="#GraveyardSlotHeader">Graveyard</a> face-up</li></ul></li>
 </ul>
@@ -303,7 +303,7 @@ These kings are not used in game, they are set aside outside of the play area. <
   <img width="80" align='left' src="images/HeartQueen.png">
 </p>
 
-<p align='center'> The king's right hand. She has vowed to protect her people and their way of life. <br /> The <a href="#QueenHeader">Queen</a> will fully absorb 1 incoming attack, in <b>all</b> cases where a <a href="#KnightSlotHeader">Knight</a> is not available to defend the king. <br /> The Queen stays in play until defeated. A defeated <a href="#QueenHeader">Queen</a> is then discarded <br /> to the <b>bottom</b> of the <a href="#GraveyardSlotHeader">Graveyard</a>. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
+<p align='center'> The <a href="#KingHeader">King</a>'s right hand. She has vowed to protect her people and their way of life. <br /> The <a href="#QueenHeader">Queen</a> will fully absorb 1 incoming attack, in <b>all</b> cases where a <a href="#KnightSlotHeader">Knight</a> is not available to defend the <a href="#KingHeader">King</a>. <br /> The Queen stays in play until defeated. A defeated <a href="#QueenHeader">Queen</a> is then discarded <br /> to the <b>bottom</b> of the <a href="#GraveyardSlotHeader">Graveyard</a>. <br /> <b>Note:</b> <i>Only 1 Queen can be active per player at a time.</i>
 </p>
 
 <br />
@@ -346,7 +346,7 @@ The ace of your suit can be used to resurrect the top card from the <a href="#Gr
 <h2 id="EquipmentCardHeader" align='center'><b><u>Equipment Cards (numbered suits)</u></b></h2>
 
 <p align='center'>
-These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your <a href="#PeasantSlotHeader">Peasant</a> or <a href="#KnightSlotHeader">Knight</a>. The value of the card influences its effect and preparation cost. Equip an Equipment Card to your <a href="#PeasantSlotHeader">Peasant</a> to allow him to attack on a future play move. The <a href="#PeasantSlotHeader">Peasant</a> can attack for the value indicated on the Equipment Card. Likewise, equip your Equipment Card to a <a href="#KnightSlotHeader">Knight</a>, to add that cards value in defense to your <a href="#KnightSlotHeader">Knight</a>. Use the <a href="#KnightSlotHeader">Knight</a> do defend your King. More information can be found in the section on "Attack Play Move"
+These cards represent weapons and armor. The <a href="#QuartermasterHeader">Quartermaster</a> prepares these resources for use by your <a href="#PeasantSlotHeader">Peasant</a> or <a href="#KnightSlotHeader">Knight</a>. The value of the card influences its effect and preparation cost. Equip an Equipment Card to your <a href="#PeasantSlotHeader">Peasant</a> to allow him to attack on a future play move. The <a href="#PeasantSlotHeader">Peasant</a> can attack for the value indicated on the Equipment Card. Likewise, equip your Equipment Card to a <a href="#KnightSlotHeader">Knight</a>, to add that cards value in defense to your <a href="#KnightSlotHeader">Knight</a>. Use the <a href="#KnightSlotHeader">Knight</a> do defend your <a href="#KingHeader">King</a>. More information can be found in the section on "Attack Play Move"
 
 <br/><b>Note:</b> <i>To unequip an Equipment Card, simply replace it with a different prepared Equipment Card. The equipment being replaced is then placed on the top of the <a href="#GraveyardSlotHeader">Graveyard</a>. This <strong>does not</strong> count as your <a href="#DiscardPhaseHeader">Discard Phase.</a></i>
 </p>
