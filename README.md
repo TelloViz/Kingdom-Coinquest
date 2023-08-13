@@ -6,7 +6,14 @@
   <span>  &#9824  </span> 
 </h1>
 
-<h3 align='center'> by [Tello-Vision](https://telloviz.netlify.app) Studio </h3>
+
+<h3>
+  by
+  <a href="https://telloviz.netlify.app">
+    Tello-Vision
+  </a>
+  Studio
+</h3>
 
 <h2 align='center'> Turn an ordinary deck of cards into a strategic battle for Kingdom Conquest! </h2>  
  
