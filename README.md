@@ -377,7 +377,7 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 
 ---
 
-<h2 align='center'>Contact me at: <br /> lollisjosh@csu.fullerton.edu <br /> www.github.com/Tello- </h2>
+<h2 align='center'>Contact me at: <br /> lollisjosh@csu.fullerton.edu <br /> www.github.com/TelloViz </h2>
 
 ---
 
