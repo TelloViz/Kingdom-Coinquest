@@ -7,8 +7,7 @@
 </h1>
 
 
-<h3 align='center>
-  by
+<h3 align='center'> by
   <a href="https://telloviz.netlify.app">
     Tello-Vision
   </a>
