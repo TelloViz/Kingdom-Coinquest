@@ -1,5 +1,3 @@
-[![Header for Kingdom Coinquest](images/Cartoon_Forest_BG_01.png)](https://github.com/Tello-/Kingdom-Coinquest)
-
 <h1 align='center'> 
   <span> &#9829 </span> 
   <span> <strong> Kingdom Coinquest </strong> </span> 
