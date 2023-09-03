@@ -388,3 +388,7 @@ A pair of cards not of your kingdom's suit of arms. They count as individual car
 !["CardSeparator"](images/CardSeparator.png)
 
 ---
+
+
+### Disclaimer:
+Card artwork does not belong to me. It was added for visual flair for a school project. This project was and is for educational purpose. I made this game as part of my Game Design class. All copyright artwork belongs to the copyright holders. I have not, do not, and will not make money off of this game, this repo, my portfolio site or my youtube.
